@@ -36,7 +36,7 @@ for page_number in range(int(start_page),int(last_page) + 1):
     for item_header,item_content in zip(placard_header,placard_content):
          # To store the information to a dictionary
           web_content_dict = {}
-          web_content_dict["Title"]=item_header.find("a",{"class":"placardTitle js-placardTitle "}).text.replace("\r","").replace("\n","")
+          web_content_dict["Title"]=item_header.find("a",{"class":"placardTitle"}).text.replace("\r","").replace("\n","")
           web_content_dict["Address"] = item_header.find("div",{"class":"location"}).text
           web_content_dict["Price"] = item_content.find("span",{"class":"altRentDisplay"}).text
           web_content_dict["Beds"] = item_content.find("span",{"class":"unitLabel"}).text

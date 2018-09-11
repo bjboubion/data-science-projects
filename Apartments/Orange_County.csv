@@ -1,0 +1,506 @@
+,Address,Beds,Phone,Price,Title
+0,"301 Jeanette Ln, Santa Ana, CA 92705",1-2 Bed,844-590-4743,"$1,975 - 3,456",PRISMA
+1,"2555 Main St, Irvine, CA 92614",1-3 Bed,866-677-9398,"$1,984 - 11,401",Main Street Village
+2,"580 Anton Blvd, Costa Mesa, CA 92626",Studio - 2 Bed,949-407-7071,"$2,021 - 4,346",580 Anton
+3,"951 S Beach Blvd, La Habra, CA 90631",1-3 Bed,858-381-0824,"$1,966 - 3,873",Valentia Apartment Homes
+4,"1100 Synergy, Irvine, CA 92614",Studio - 3 Bed,949-416-2737,"$2,050 - 4,141",Rize Irvine Apartments
+5,"26033 Cape Dr, Laguna Niguel, CA 92677",Studio - 3 Bed,844-821-4033,"$1,990 - 4,563",Broadstone Cavora
+6,"1781 S Campton Ave, Anaheim, CA 92805",Studio - 3 Bed,844-481-2712,"$1,920 - 3,935",Jefferson Platinum Triangle
+7,"17321 Murphy Ave, Irvine, CA 92614",Studio - 2 Bed,844-329-3989,"$2,215 - 3,625",Fusion
+8,"18880 Douglas, Irvine, CA 92612",2-3 Bed,844-891-0119,"$2,760 - 3,775",Carlyle
+9,"22751 EL PRADO, Rancho Santa Margarita, CA 92688",1-2 Bed,949-243-7609,"$1,745 - 2,361",Avila at Rancho Santa Margarita Apartments
+10,"421 Bernard St, Costa Mesa, CA 92627",1-3 Bed,714-656-2900,"$2,090 - 5,468",Blue Sol
+11,"28032-28032 Marguerite Pky, Mission Viejo, CA 92692",Studio - 2 Bed,844-845-1821,"$1,670 - 2,420",ReNew at the Shops
+12,"8201 E Blackwillow Cir, Anaheim Hills, CA 92808",1-2 Bed,877-428-3985,"$1,765 - 2,560",Sycamore Canyon Apartment Homes
+13,"240 Avenida Vista Montana, San Clemente, CA 92672",1-2 Bed,844-335-4026,"$1,770 - 2,255",Seacrest Apartment Homes
+14,"26571 Normandale Dr, Lake Forest, CA 92630",Studio - 2 Bed,844-306-6942,"$1,580 - 2,210",Westridge Apartment Homes
+15,"22482 Alma Aldea, Rancho Santa Margarita, CA 92688",1-3 Bed,844-889-7072,"$1,695 - 2,150",Villas Antonio Apartment Homes
+16,"650 Tamarack Ave, Brea, CA 92821",1-2 Bed,866-763-3945,"$1,505 - 1,980",Raintree Apartment Homes
+17,"27444 Camden, Mission Viejo, CA 92692",Studio - 2 Bed,844-889-4159,"$1,635 - 2,080",Mosaic Apartment Homes
+18,"114 Aliento, Rancho Santa Margarita, CA 92688",Studio - 2 Bed,844-821-3192,"$1,670 - 1,715",Villas Aliento Apartment Homes
+19,"1-2 Via Amistosa, Rancho Santa Margarita, CA 92688",1-2 Bed,866-906-3258,"$1,495 - 2,010",Villa La Paz Apartment Homes
+20,"92 Esencia Dr, Ladera Ranch, CA 92694",1-3 Bed,844-578-7476,"$2,324 - 2,651",Esencia Sur Apartment Homes
+21,"16931 Millikan Ave, Irvine, CA 92606",Studio - 2 Bed,844-202-9642,"$1,930 - 3,010",The Alton
+22,"35 Via Lucca, Irvine, CA 92612",Studio - 2 Bed,844-404-1987,"$1,885 - 2,725",Toscana
+23,"130 E Chapman Ave, Fullerton, CA 92832",1-2 Bed,844-282-6357,"$1,960 - 2,850",City Pointe
+24,"2850 Kelvin Ave, Irvine, CA 92614",1-2 Bed,866-588-2054,"$2,005 - 3,215",The Kelvin
+25,"21034 Pacific Coast Hwy, Huntington Beach, CA 92648",1-3 Bed,844-215-9686,"$2,624 - 16,145",The Residences at Pacific City
+26,"19891-19895 Beach Blvd, Huntington Beach, CA 92648",Studio - 2 Bed,844-899-0089,"$1,899 - 3,305",Beach & Ocean
+27,"501 E Katella Ave, Orange, CA 92867",2 Bed,844-310-6850,"$2,194 - 3,802",Foxborough
+28,"880 Irvine Ave, Newport Beach, CA 92663",Studio - 2 Bed,844-561-2871,"$1,502 - 3,642",Eight 80 Newport Beach
+29,"2775 Mesa Verde Dr E, Costa Mesa, CA 92626",Studio - 3 Bed,844-567-5339,"$1,689 - 5,988",27 Seventy Five Mesa Verde
+30,"7521 Edinger Ave, Huntington Beach, CA 92647",Studio - 3 Bed,844-213-8410,"$2,045 - 4,660",The Residences at Bella Terra
+31,"2700 Peterson Pl, Costa Mesa, CA 92626",Studio - 3 Bed,844-734-2314,"$1,527 - 4,379",Harbor at Mesa Verde
+32,"1105 E Katella Ave, Anaheim, CA 92805",Studio - 2 Bed,844-307-0195,"$1,812 - 2,728",Parallel
+33,"2801 Kelvin Ave, Irvine, CA 92614",Studio - 3 Bed,844-488-8619,"$1,874 - 6,331",The Residences on Jamboree
+34,"1815 S Westside Dr, Anaheim, CA 92805",Studio - 2 Bed,657-230-2518,"$2,039 - 3,800",Core
+35,"3099 W Chapman Ave, Orange, CA 92868",Studio - 2 Bed,714-202-0311,"$1,789 - 2,987",Allure
+36,"1942 Deerpark Dr, Fullerton, CA 92831",Studio - 2 Bed,844-712-7200,"$1,515 - 2,280",The Homestead
+37,"30824 La Miranda Ln, Rancho Santa Margarita, CA 92688",1-2 Bed,949-416-2730,"$1,760 - 2,839",Buena Vida 55+
+38,"7290 Edinger Ave, Huntington Beach, CA 92647",Studio - 3 Bed,844-892-8445,"$1,920 - 4,070",Luce
+39,"4 Austin, Irvine, CA 92604",1-3 Bed,844-318-8168,"$1,715 - 2,710",Heritage Point
+40,"1000 S Coast Dr, Costa Mesa, CA 92626",1-3 Bed,844-266-6725,"$1,775 - 2,750",The Cape
+41,"2201-2211 E Orangewood Ave, Anaheim, CA 92806",Studio - 3 Bed,714-515-8073,"$2,030 - 4,050",The George
+42,"420 La Crescenta Dr, Brea, CA 92823",1-3 Bed,713-401-3226,"$2,165 - 4,450",Pearl La Floresta
+43,"345 W 1st St, Tustin, CA 92780",Studio - 2 Bed,844-517-2323,"$1,795 - 2,250",Villa Viento Apartments
+44,"18504 Beach Blvd, Huntington Beach, CA 92648",Studio - 2 Bed,844-865-0609,"$2,001 - 3,164",Elan Huntington Beach
+45,"160 W Center St, Anaheim, CA 92805",Studio - 2 Bed,888-343-5248,"$1,680 - 4,223",The Mix at CTR City
+46,"150 S Magnolia Ave, Anaheim, CA 92804",1-2 Bed,657-214-5816,"$1,550 - 2,235",Arbors At Magnolia
+47,"7795 Neptune Dr, Huntington Beach, CA 92648",2-4 Bed,844-286-3671,"$2,880 - 3,700",Surfside Villas
+48,"100 E MacArthur Blvd, Santa Ana, CA 92707",1-3 Bed,877-633-8819,"$1,908 - 3,962",The Marke
+49,"1 Park Newport, Newport Beach, CA 92660",Studio - 3 Bed,949-467-9152,"$1,750 - 4,150",Park Newport
+50,"2960-2965 E Jackson Ave, Anaheim, CA 92806",1-2 Bed,844-865-2720,"$1,700 - 2,275",The Jackson
+51,"2656 Associated Rd, Fullerton, CA 92835",1-2 Bed,888-525-0496,"$1,640 - 2,175",Uptown Fullerton
+52,"2045 S Haster St, Anaheim, CA 92802",1-3 Bed,844-867-0166,"$1,675 - 2,425",Pacific Palms
+53,"811 S Fairview St, Santa Ana, CA 92704",1-2 Bed,844-544-7156,"$1,495 - 2,090",Villa Del Sol
+54,"300-301 W 2nd St, Santa Ana, CA 92701",1-2 Bed,844-871-8297,"$1,645 - 2,165",Artists Village
+55,"1331 E Katella Ave, Anaheim, CA 92805",Studio - 2 Bed,844-578-5475,"$1,865 - 3,370",Vivere Lofts
+56,"1725 S Auburn Way, Anaheim, CA 92805",Studio - 2 Bed,714-656-4912,"$1,790 - 2,710",Vivere Flats
+57,"2100 E Katella Ave, Anaheim, CA 92806",1-3 Bed,844-231-3634,"$2,200 - 3,320",Stadium House Apartments
+58,"201 S Magnolia Ave, Anaheim, CA 92804",1-3 Bed,844-377-9173,"$1,525 - 2,490",Villa Serrano
+59,"3400 Avenue of the Arts, Costa Mesa, CA 92626",Studio - 2 Bed,562-315-7690,"$1,722 - 8,932",3400 Avenue of the Arts Apartments
+60,"299 N State College Blvd, Orange, CA 92868",Studio - 2 Bed,844-277-0851,"$1,750 - 5,015",Gateway Apartment Homes
+61,"100 Vilaggio, Newport Beach, CA 92660",Studio - 3 Bed,844-824-9592,"$2,085 - 7,145",Newport Bluffs Apartment Village
+62,"381 Sable, Rancho Santa Margarita, CA 92688",1-2 Bed,844-882-0178,"$1,830 - 3,695",Las Flores Apartment Homes
+63,"7725 Gateway Pky, Irvine, CA 92618",Studio - 2 Bed,844-387-6176,"$2,000 - 5,060",Centerpointe Apartment Homes
+64,"25 Palatine Rd, Irvine, CA 92612",Studio - 3 Bed,844-824-2564,"$1,805 - 4,830",Villa Siena Apartment Homes
+65,"100 Grand Canal, Irvine, CA 92620",1-2 Bed,844-561-2869,"$1,820 - 4,930",Cypress Village Apartment Homes
+66,"100 Simplicity, Irvine, CA 92620",1-2 Bed,844-889-4150,"$1,790 - 4,545",Woodbury Apartment Homes
+67,"5000 Capobella, Aliso Viejo, CA 92656",1-2 Bed,844-630-3826,"$1,800 - 3,740",Vista Bella Apartment Homes
+68,"3395 Michelson Dr, Irvine, CA 92612",Studio - 2 Bed,866-696-0796,"$1,820 - 4,900",Park Place Apartment Homes
+69,"100 Ambazar, Irvine, CA 92614",1-2 Bed,844-517-2404,"$1,945 - 3,725",Villa Coronado Apartment Homes
+70,"350 Gitano, Irvine, CA 92618",1-2 Bed,844-765-8485,"$1,955 - 5,435",Los Olivos Apartment Homes
+71,"1000 San Joaquin Plz, Newport Beach, CA 92660",1-3 Bed,844-525-0203,"$3,655 - 8,385",Villas Fashion Island
+72,"29131 Spectrum, Irvine, CA 92618",Studio - 2 Bed,844-730-2039,"$1,935 - 4,365",Westview Apartment Homes
+73,"140 W Hill Ave, Fullerton, CA 92832",1-2 Bed,844-213-1207,"$2,195 - 2,250",Portico Villas
+74,"6401 Warner Ave, Huntington Beach, CA 92647",1-3 Bed,844-216-2097,"$1,725 - 2,990",Ocean Breeze Villas
+75,"7701 Warner Ave, Huntington Beach, CA 92647",1-2 Bed,844-815-3690,"$1,685 - 3,295",Pacific Shores
+76,"56 Sea Terrace St, Dana Point, CA 92629",1-3 Bed,844-572-7978,"$1,640 - 6,101",Seabrook at Bear Brand
+77,"90 Vantis Dr, Aliso Viejo, CA 92656",Studio - 2 Bed,844-476-2342,"$1,836 - 5,211",Vantis
+78,"8604 E Whitewater Dr, Anaheim, CA 92808",1-2 Bed,844-377-8429,"$1,756 - 6,056",The Cascades
+79,"26600 Oso Pky, Mission Viejo, CA 92691",1-2 Bed,844-633-7118,"$1,935 - 4,169",Adagio on the Green
+80,"3333 Michelson Dr, Irvine, CA 92612",Studio - 2 Bed,844-305-6264,"$2,005 - 4,245",The Royce
+81,"16761 Viewpoint Ln, Huntington Beach, CA 92647",2-3 Bed,844-698-1932,"$1,935 - 2,721",Surf at 39
+82,"25550 River Bend Dr, Yorba Linda, CA 92887",1-2 Bed,864-315-3472,"$1,845 - 3,455",The Bryant at Yorba Linda
+83,"3400 S Main St, Santa Ana, CA 92707",1-2 Bed,949-258-7986,"$1,925 - 2,791",The Californian Apartments-South Coast Metro
+84,"6242 Warner Ave, Huntington Beach, CA 92647",1-2 Bed,844-898-8063,"$1,950 - 2,783",The Californian Apartments-Huntington Beach
+85,"251 Orangefair Ave, Fullerton, CA 92832",Studio - 2 Bed,844-454-0982,"$2,110 - 3,115",Aspect
+86,"250 W Santa Fe Ave, Fullerton, CA 92832",Studio - 3 Bed,844-845-9785,"$1,797 - 2,796",Malden Station by Windsor
+87,"7441-7461 Edinger Ave, Huntington Beach, CA 92647",Studio - 2 Bed,714-421-4416,"$1,870 - 4,145",Boardwalk by Windsor
+88,"4455 Casa Grande Cir, Cypress, CA 90630",1-3 Bed,888-509-7861,"$1,827 - 2,522",Casa Grande Apartment Homes
+89,"1110 W Town and Country Rd, Orange, CA 92868",Studio - 2 Bed,949-284-8941,"$1,961 - 3,515",Eleven 10
+90,"27550 Hillcrest, Mission Viejo, CA 92691",1-2 Bed,844-241-9568,"$1,680 - 2,225",Bella Vista
+91,"12801 Brookhurst St, Garden Grove, CA 92840",1-3 Bed,714-908-4776,"$1,940 - 2,930",Brookhurst Place
+92,"1540 W Ball Rd, Anaheim, CA 92802",Studio - 2 Bed,714-409-3496,"$1,320 - 1,920",Regency Plaza
+93,"125 Baker St E, Costa Mesa, CA 92626",Studio - 3 Bed,949-438-2386,"$1,950 - 3,820",Baker Block
+94,"2000 W Glenoaks Ave, Anaheim, CA 92801",1-2 Bed,714-252-4611,"$1,495 - 1,995",Glen Oaks Apartments
+95,"1000 Lupine, Lake Forest, CA 92630",1-3 Bed,888-570-2350,"$1,993 - 3,496",Avalon Baker Ranch
+96,"2900 E Lincoln Ave, Anaheim, CA 92806",1-2 Bed,714-202-0301,"$1,695 - 2,195",Le Med Apartment Homes
+97,"145 S Westchester Dr, Anaheim, CA 92804",1-2 Bed,844-232-6809,"$1,430 - 1,680",Glen Forest Apartments
+98,"385 S Manchester Ave, Orange, CA 92868",Studio - 3 Bed,312-982-0077,"$1,768 - 4,580",AMLI Uptown Orange
+99,"555 Paularino Ave, Costa Mesa, CA 92626",1-2 Bed,844-600-7869,"$1,740 - 2,515",eaves South Coast
+100,"6700 Warner Ave, Huntington Beach, CA 92647",1-2 Bed,877-599-6736,"$1,735 - 2,380",eaves Huntington Beach
+101,"22700 Lake Forest Dr, Lake Forest, CA 92630",1-3 Bed,844-561-1934,"$1,645 - 2,770",eaves Lake Forest
+102,"111 Via Serena Via, Rancho Santa Margarita, CA 92688",1-2 Bed,844-247-0137,"$1,580 - 2,155",eaves Santa Margarita
+103,"333 1st St, Seal Beach, CA 90740",Studio - 2 Bed,844-532-1906,"$1,890 - 3,028",eaves Seal Beach
+104,"7302-7400 Center Ave, Huntington Beach, CA 92647",Studio - 2 Bed,844-608-3519,"$1,825 - 3,104",Avalon Huntington Beach
+105,"2777 Alton Pky, Irvine, CA 92606",Studio - 2 Bed,888-312-1472,"$1,875 - 3,020",Avalon Irvine
+106,"2100 Sullivan, Irvine, CA 92614",Studio - 3 Bed,844-322-8541,"$2,175 - 4,615",Metropolis
+107,"841 W La Habra Blvd, La Habra, CA 90631",1-3 Bed,844-865-2716,"$1,395 - 2,100",La Habra Hill Apartments
+108,"2130 W Crescent Ave, Anaheim, CA 92801",2-4 Bed,714-656-4921,"$1,728 - 2,400",Tara Hill Apartments
+109,"250 W Central Ave, Brea, CA 92821",1-2 Bed,844-242-8996,"$1,550 - 2,200",Tamarack Gardens Apartments
+110,"15100 Moran St, Westminster, CA 92683",1-2 Bed,844-589-7684,"$1,815 - 2,475",Jasmine Place Apartments
+111,"100 S Highland Ave, Placentia, CA 92870",2 Bed,844-404-3901,"$1,860 - 1,980",Highland Orchard Apartments
+112,"21661 Brookhurst St, Huntington Beach, CA 92646",1-2 Bed,714-465-4400,"$1,700 - 2,330",Casa Del Sol
+113,"12851 Haster St, Garden Grove, CA 92840",1-2 Bed,855-873-6781,"$1,690 - 2,020",Moss Creek Apartments
+114,"30001 Golden Lantern, Laguna Niguel, CA 92677",2-3 Bed,949-627-4286,"$1,975 - 2,825",Laguna Serrano Apartments
+115,"22501 Chase, Aliso Viejo, CA 92656",1-2 Bed,888-895-9136,"$1,730 - 2,270",Aventine at Aliso Viejo
+116,"11152 Wallingsford Rd, Los Alamitos, CA 90720",2-3 Bed,844-446-8117,"$2,575 - 3,250",Ascent Apartment Homes
+117,"23511 Aliso Creek Rd, Laguna Hills, CA 92656",1-2 Bed,844-819-0817,"$1,855 - 3,525",Aliso Town Center Apartment Homes
+118,"1300 Adams Ave, Costa Mesa, CA 92626",1-2 Bed,844-839-1233,"$1,740 - 2,100",Pinecreek Village Apartments
+119,"5600 Orangethorpe Ave, La Palma, CA 90623",1-2 Bed,888-758-4245,"$1,715 - 2,020",Brookside
+120,"2175 S Mallul Dr, Anaheim, CA 92802",Studio - 1 Bed,866-572-2655,"$1,309 - 1,685",Caribbean Cove
+121,"919 Bayside Dr, Newport Beach, CA 92660",1-2 Bed,844-391-1672,"$3,999 - 6,300",The Waterfront
+122,"27082 O'Neill Dr, Ladera Ranch, CA 92694",1-2 Bed,844-870-2297,"$1,710 - 2,350",Laurel Vista Apartment Homes
+123,"1717 E Birch St, Brea, CA 92821",Studio - 2 Bed,866-489-1929,"$1,520 - 2,085",Birchwood Village Apartment Homes
+124,"1701 Gateway Pl, Rancho Mission Viejo, CA 92694",1-3 Bed,844-731-7031,"$1,900 - 2,995",Sendero Gateway Apartment Homes
+125,"1301 Las Riendas Dr, La Habra, CA 90631",1-2 Bed,844-241-6491,"$1,695 - 2,075",Casa Madrid Apartment Homes
+126,"28520 Wood Canyon Dr, Aliso Viejo, CA 92656",1-2 Bed,866-618-4847,"$1,665 - 2,470",Wood Canyon Villa Apartment Homes
+127,"5400 Cascade Way, Buena Park, CA 90621",Studio - 2 Bed,714-576-7161,"$1,590 - 1,930",McComber Creek Apartment Homes
+128,"16350 S Harbor Blvd, Santa Ana, CA 92704",1-2 Bed,714-786-8487,"$1,575 - 2,035",Pacific Woods Apartment Homes
+129,"1515 E Katella Ave, Anaheim, CA 92805",Studio - 2 Bed,844-740-0854,"$1,625 - 2,333",Park Viridian
+130,"3063 W Chapman Ave, Orange, CA 92868",1-2 Bed,844-346-3015,"$1,844 - 2,387",Renaissance at Uptown Orange
+131,"2552 Kelvin Ave, Irvine, CA 92614",1-3 Bed,844-318-8163,"$2,210 - 3,080",Kelvin Court
+132,"26322 Towne Centre Dr, Foothill Ranch, CA 92610",1-3 Bed,949-459-3941,"$1,860 - 2,980",Sonterra at Foothill Ranch
+133,"26033 Moulton Pky, Laguna Hills, CA 92653",1-2 Bed,866-601-5359,"$1,720 - 2,180",Villa Solana
+134,"20041 Osterman Rd, Lake Forest, CA 92630",1-2 Bed,844-350-0526,"$1,785 - 2,115",Siena Terrace
+135,"21622 Marguerite Pky, Mission Viejo, CA 92692",1-2 Bed,866-340-6999,"$1,745 - 2,490",Vista Del Lago
+136,"6762 Warner Ave, Huntington Beach, CA 92647",1-2 Bed,888-304-9877,"$1,625 - 2,270",Regency Palms
+137,"21022 Los Alisos Blvd, Rancho Santa Margarita, CA 92688",1-3 Bed,844-204-5823,"$1,765 - 2,355",Skyview
+138,"21551 Brookhurst St, Huntington Beach, CA 92646",1-3 Bed,844-380-3632,"$1,863 - 13,072",Huntington Vista
+139,"1330 SE Bristol St, Costa Mesa, CA 92626",1-2 Bed,657-622-0569,"$1,742 - 2,633",Missions at Back Bay
+140,"1818 S State College Blvd, Anaheim, CA 92806",1-2 Bed,844-310-6158,"$2,029 - 3,444",1818 Platinum Triangle
+141,"28601 Los Alisos Blvd, Mission Viejo, CA 92692",Studio - 3 Bed,866-801-4823,"$1,699 - 4,172",Los Alisos at Mission Viejo
+142,"350 The Club Dr, Laguna Beach, CA 92651",1-2 Bed,888-867-1263,"$1,818 - 2,674",Artisan Laguna Beach
+143,"1901 E 1st St, Santa Ana, CA 92705",1-3 Bed,714-646-4579,"$1,840 - 3,615",Nineteen01
+144,"1727 W Glenoaks Ave, Anaheim, CA 92801",Studio - 2 Bed,714-676-5618,"$1,350 - 2,025",Echo 116
+145,"2 Enterprise, Aliso Viejo, CA 92656",1-2 Bed,844-537-9467,"$1,793 - 2,639",Alize
+146,"1100 Calle Del Cerro, San Clemente, CA 92672",1-2 Bed,949-371-8636,"$1,637 - 3,227",Avana San Clemente
+147,"30041 Tessier, Laguna Niguel, CA 92677",1-2 Bed,844-770-9862,"$1,719 - 2,950",Hidden Hills Condominium Rentals
+148,"23592 Windsong, Aliso Viejo, CA 92656",1-3 Bed,949-525-9875,"$1,975 - 2,815",Barcelona Resort Apartments
+149,"2855 Pinecreek Dr, Costa Mesa, CA 92626",1-2 Bed,844-834-2967,"$1,769 - 2,649",Camden Martinique
+150,"32400-32478 Crown Valley Pky, Dana Point, CA 92629",1-2 Bed,844-792-6353,"$1,893 - 2,989",Monarch Coast
+151,"2801 Main St, Irvine, CA 92614",1-2 Bed,844-441-3887,"$2,239 - 3,129",Camden Main And Jamboree
+152,"27662-27682 Aliso Creek Rd, Aliso Viejo, CA 92656",1-2 Bed,844-890-5248,"$1,691 - 2,758",Alicante
+153,"23411 Summerfield, Aliso Viejo, CA 92656",1-3 Bed,949-525-9926,"$1,825 - 2,995",St. Moritz Apartments
+154,"2598 Associated Rd, Fullerton, CA 92835",1-2 Bed,844-221-5219,"$1,788 - 2,508",Las Palmas
+155,"5601 E Orangethorpe Ave, Anaheim, CA 92807",1-2 Bed,844-505-6572,"$1,535 - 2,170",The Vineyards
+156,"1850 Whittier Ave, Costa Mesa, CA 92627",2 Bed,844-490-5729,"$2,249 - 2,529",Camden Sea Palms
+157,"600 N Harbor Blvd, La Habra, CA 90631",Studio - 2 Bed,844-737-0639,"$1,364 - 1,904",Summerwood
+158,"10300 La Hacienda Ave, Fountain Valley, CA 92708",1-2 Bed,844-797-9382,"$1,775 - 2,255",Serena Vista
+159,"360-360 S Idaho St, La Habra, CA 90631",1-2 Bed,844-226-2015,"$1,499 - 1,953",Fair Oaks
+160,"805 W Stevens Ave, Santa Ana, CA 92707",2-3 Bed,844-237-7329,"$1,945 - 2,650",Park Plaza
+161,"2828-2860 W Ball Rd, Anaheim, CA 92804",1-3 Bed,844-829-9096,"$1,575 - 2,695",Summer Crest
+162,"13751 Edwards St, Westminster, CA 92683",2 Bed,844-335-8991,"$1,826 - 1,895",Pointe Pacific
+163,"2704 W Ball Rd, Anaheim, CA 92804",1-2 Bed,844-454-2053,"$1,601 - 1,961",Sundial
+164,"18700 Yorba Linda Blvd, Yorba Linda, CA 92886",2-3 Bed,844-293-1982,"$2,190 - 2,845",Yorba Linda Pines & Villas
+165,"2880 W Ball Rd, Anaheim, CA 92804",Studio - 3 Bed,844-840-0525,"$1,505 - 2,410",Twin Pines
+166,"730 S Beach Blvd, Anaheim, CA 92804",1-2 Bed,844-220-7459,"$1,495 - 2,025",Stonybrook
+167,"2970 W Orange Ave, Anaheim, CA 92804",1-2 Bed,844-271-7867,"$1,567 - 2,097",Beachwood
+168,"1375-1375 W Valencia Dr, Fullerton, CA 92833",1-3 Bed,844-237-3255,"$1,595 - 2,470",Avignon
+169,"1501 S Highland Ave, Fullerton, CA 92832",1-2 Bed,844-288-3084,"$1,490 - 2,135",Highland Pinetree
+170,"18000 Spectrum, Irvine, CA 92618",Studio - 2 Bed,844-602-2040,"$1,860 - 4,895",The Park at Irvine Spectrum Center
+171,"100 Family Tree, Irvine, CA 92618",1-3 Bed,844-345-1572,"$1,915 - 3,655",Portola Court Apartment Homes
+172,"105 Quail Rdg, Irvine, CA 92603",1-2 Bed,844-744-8306,"$1,830 - 4,135",Quail Hill Apartment Homes
+173,"100 Whispering Trl, Irvine, CA 92602",1-2 Bed,844-887-2830,"$2,040 - 4,800",Orchard Hills Apartment Homes
+174,"1 White Cap Ln, Newport Beach, CA 92657",1-2 Bed,844-890-6175,"$2,350 - 4,105",Newport Ridge Apartment Homes
+175,"16000 Legacy Rd, Tustin, CA 92782",Studio - 2 Bed,888-367-1958,"$1,895 - 3,970",Amalfi Apartment Homes
+176,"6500 Roosevelt, Irvine, CA 92618",1-2 Bed,844-833-5241,"$1,880 - 4,225",Avella Apartment Homes
+177,"25 Pacifica, Irvine, CA 92618",Studio - 2 Bed,844-682-1064,"$1,890 - 5,160",The Village at Irvine Spectrum Center
+178,"1261 Deerpark Dr, Fullerton, CA 92831",1-2 Bed,714-784-0387,"$1,620 - 2,350",THE STREAMS
+179,"750 Park Center Dr, Santa Ana, CA 92705",1-2 Bed,714-602-5831,"$1,700 - 2,310",LAKE DIANNE
+180,"5000-7432 City Lights Dr, Aliso Viejo, CA 92656",1-2 Bed,844-476-5139,"$1,761 - 4,361",City Lights at Town Center
+181,"50 Eastshore, Irvine, CA 92604",1-3 Bed,844-457-6952,"$1,680 - 5,067",Woodbridge
+182,"24391 Avenida de la Carlota, Laguna Hills, CA 92653",1-2 Bed,844-769-5899,"$1,894 - 4,196",Reata Oakbrook Village
+183,"13921 Tustin East Dr, Tustin, CA 92780",Studio - 3 Bed,864-990-3341,"$1,590 - 2,980",Axiom
+184,"32762 Pointe Sutton P..., Dana Point, CA 92629",1-2 Bed,888-794-0670,"$2,112 - 3,560",Harbor Pointe
+185,"14901 Newport Ave, Tustin, CA 92780",Studio - 2 Bed,844-734-2312,"$1,750 - 3,421",El Paseo
+186,"27960 Cabot Rd, Laguna Niguel, CA 92677",Studio - 2 Bed,855-893-0286,"$1,798 - 7,021",Apex Laguna Niguel
+187,"1001 Starbuck St, Fullerton, CA 92833",Studio - 3 Bed,714-451-2405,"$2,080 - 2,725",Amerige Pointe
+188,"25421 Alta Loma, Lake Forest, CA 92630",1-2 Bed,949-243-7418,"$1,835 - 2,450",Serrano Highlands Apartment Homes
+189,"25162 Charlinda Dr, Mission Viejo, CA 92691",Studio - 2 Bed,949-243-7615,"$1,674 - 2,214",Sycamore Lane Apartment Homes
+190,"2750 Kelvin Ave, Irvine, CA 92614",Studio - 2 Bed,949-336-2169,"$1,666 - 3,733",Sofi Irvine
+191,"24555 Los Alisos Blvd, Laguna Hills, CA 92653",1-2 Bed,949-272-0983,"$1,665 - 5,199",Sofi Laguna Hills
+192,"2345 Newport Blvd, Costa Mesa, CA 92627",1-3 Bed,844-409-6513,"$1,830 - 2,965",Madison Newport
+193,"24455 Via Pansa Via, Laguna Niguel, CA 92677",1-2 Bed,949-273-4517,"$1,860 - 5,031",Laguna Gardens Apts.
+194,"3700 Plaza Dr, Santa Ana, CA 92704",Studio - 3 Bed,844-544-9025,"$1,593 - 2,894",Versailles on the Lake Apartments
+195,"1480 S Highland Ave, Fullerton, CA 92832",Studio - 2 Bed,844-799-7986,"$1,670 - 2,375",Rose Pointe Apartments
+196,"20700 El Toro Rd, Lake Forest, CA 92630",2 Bed,844-237-3885,"$1,995",River Oaks
+197,"1780 W Lincoln Ave, Anaheim, CA 92801",1-2 Bed,866-604-3373,"$1,695 - 2,100",Windrose Apartments
+198,"15491 Pasadena Ave, Tustin, CA 92780",Studio - 2 Bed,888-353-1389,"$1,375 - 1,850",Las Casas Apartments
+199,"6200 Edinger Ave, Huntington Beach, CA 92647",Studio - 3 Bed,844-217-5911,"$1,550 - 2,550",Whiffle Tree Apartments
+200,"23333 Ridge Route Dr, Lake Forest, CA 92630",2 Bed,949-393-5874,"$2,005 - 2,200",Timbers El Toro Apartments
+201,"15555 Huntington Village Ln, Huntington Beach, CA 92647",1-2 Bed,877-795-3618,"$1,820 - 2,832",Artisan
+202,"200 City Blvd W, Orange, CA 92868",Studio - 2 Bed,866-490-3209,"$1,447 - 2,343",The Terrace Apartments
+203,"6968 Campus Dr, Buena Park, CA 90621",2-3 Bed,844-744-3448,Call for Rent,Castlewood Park Apartments
+204,"16211 Parkside Ln, Huntington Beach, CA 92647",1-2 Bed,844-228-8350,"$1,595 - 2,265",Huntington Parkside
+205,"175 N Feldner Rd, Orange, CA 92868",Studio - 2 Bed,714-705-4273,"$1,426 - 2,255",Strada
+206,"1601 W Macarthur Blvd, Santa Ana, CA 92704",1-2 Bed,949-258-7873,"$1,750 - 2,505",The Aspens South Coast
+207,"3700 S Santa Fe Village Dr, Santa Ana, CA 92704",1-2 Bed,949-769-2235,"$1,965 - 3,230",Santa Fe Village
+208,"1201 E Fairhaven Ave, Santa Ana, CA 92705",1-2 Bed,714-602-1478,"$1,765 - 2,305",The Aspens Fairhaven
+209,"3600 Aspen Village Way, Santa Ana, CA 92704",1-2 Bed,714-361-9864,"$2,015 - 2,780",Aspen Village
+210,"19131-19161 Delaware St, Huntington Beach, CA 92648",1-2 Bed,714-656-2367,"$1,645 - 1,950",Huntington Manor
+211,"12571-12581 9th St, Garden Grove, CA 92840",2-3 Bed,714-786-8486,"$1,980 - 2,625",Emerald Ridge
+212,"100 Pointe Dr, Brea, CA 92821",1-2 Bed,714-784-0829,"$1,950 - 2,440",The Pointe Apartment Homes
+213,"7051 Maddox Dr, Huntington Beach, CA 92647",1-2 Bed,844-766-4573,"$1,695 - 2,025",The Maddox
+214,"8081 Holland Dr, Huntington Beach, CA 92647",1-2 Bed,844-821-0188,"$1,645 - 2,065",The Sandpiper
+215,"12777 Garden Grove Blvd, Garden Grove, CA 92843",1-2 Bed,844-211-9630,"$1,525 - 1,825",Harbor Grove Senior Apartments: 55 Plus Only
+216,"16552 Sell Cir, Huntington Beach, CA 92649",1-2 Bed,844-349-2363,"$1,800 - 2,295",Las Brisas Del Mar--Harbour Area
+217,"655 N Brea Blvd, Brea, CA 92821",1-2 Bed,844-529-7691,"$1,755 - 2,445",Canyon Pines Apartments
+218,"10320 Warner Ave, Fountain Valley, CA 92708",1-2 Bed,844-245-9113,"$1,675 - 2,000",Park Pacific
+219,"120 N Magnolia Ave, Anaheim, CA 92801",1-2 Bed,657-214-5981,"$1,550 - 2,175",Fairway Village Apartments
+220,"2414 N Tustin Ave, Santa Ana, CA 92705",Studio - 2 Bed,864-438-0181,"$1,550 - 2,275",Horizon Apartment Homes
+221,"12621-12661 Lewis St, Garden Grove, CA 92840",Studio - 2 Bed,714-202-0128,"$1,375 - 1,895",City Plaza
+222,"790 N Euclid St, Anaheim, CA 92801",2 Bed,866-296-6036,"$1,850 - 1,950",Glenoaks Terrace Apartments
+223,"8021 9th St, Buena Park, CA 90621",2 Bed,855-204-7525,"$1,995",Owen Village Apartments
+224,"9951 Holder St, Cypress, CA 90630",3 Bed,844-288-9267,"$2,195 - 2,395",Cypress Townpark Apartments
+225,"3138 E Maple Ave, Orange, CA 92869",2 Bed,844-818-2904,"$1,443",The Knolls
+226,"9900 Acacia Ave, Garden Grove, CA 92841",1-2 Bed,844-359-4339,"$1,620 - 2,110",La Madera Apartments
+227,"2724 N Bristol St, Santa Ana, CA 92706",1-3 Bed,714-361-9874,"$1,695 - 2,395",The Islander Apartments
+228,"17171 Bolsa Chica St, Huntington Beach, CA 92649",1-2 Bed,844-382-7636,"$1,530 - 2,090",The Cambridge
+229,"1313 W Memory Ln, Santa Ana, CA 92706",Studio - 2 Bed,844-337-3233,"$1,225 - 1,695",Portofino Apartments
+230,"21041 Osterman Rd, Lake Forest, CA 92630",1-3 Bed,949-273-4473,"$1,860 - 3,260",Bellecour Way
+231,"1844 E Fairway Dr, Orange, CA 92866",2 Bed,844-704-0308,Call for Rent,Fairway Park
+232,"3100 Park Ave, Tustin, CA 92782",1-3 Bed,844-737-7539,"$1,935 - 2,379",Anton Legacy
+233,"2800 W 17th St, Santa Ana, CA 92706",1-2 Bed,877-384-0174,"$1,564 - 1,875",San Tropez
+234,"1500 Mesa Verde Dr E, Costa Mesa, CA 92626",1-2 Bed,844-890-5366,"$1,956 - 2,668",Azulon at Mesa Verde
+235,"3124 S Main St, Santa Ana, CA 92707",1-2 Bed,714-485-4102,"$1,725 - 2,750",Adagio at South Coast
+236,"2400 Harbor Blvd, Costa Mesa, CA 92626",1-2 Bed,888-770-5148,"$1,684 - 4,535",Mediterranean Village Costa Mesa
+237,"102 Calais St, Laguna Niguel, CA 92677",1-2 Bed,844-492-1762,"$1,895 - 2,475",Elan Overlook Laguna
+238,"3530-3560 E La Palma Ave, Anaheim, CA 92806",1-2 Bed,888-268-2091,"$1,869 - 3,707",The Crossing Apartments
+239,"2801 Alton Pky, Irvine, CA 92606",Studio - 2 Bed,877-907-8871,"$1,998 - 7,516",Calypso Apartments and Lofts
+240,"16162 Sher Ln, Huntington Beach, CA 92647",1-2 Bed,844-775-5532,"$1,645 - 1,935",Huntington Highlander Apartment Homes
+241,"1265 N Chrisden St, Anaheim, CA 92807",Studio - 2 Bed,844-245-9124,"$1,565 - 1,845",Canyon Village Apartment Homes
+242,"2540 Country Hills Rd, Brea, CA 92821",Studio - 2 Bed,866-490-1340,"$1,580 - 2,010",Country Hills Apartment Homes
+243,"3300 Quartz Ln, Fullerton, CA 92831",1-2 Bed,844-518-1504,"$1,570 - 2,000",R C Briarwood Apartment Homes
+244,"11250 Dale St, Garden Grove, CA 92841",1-2 Bed,844-878-7085,"$1,710 - 1,980",Meadowood Place Apartment Homes
+245,"825 Tamarack Ave, Brea, CA 92821",1-2 Bed,844-896-1735,"$1,825 - 2,020",Tamarack Woods Apartment Homes
+246,"4011 E Chapman Ave, Orange, CA 92869",1-2 Bed,844-789-4042,Call for Rent,Orange Creek Apartment Homes
+247,"9950 Juanita St, Cypress, CA 90630",1-2 Bed,844-560-3125,"$1,750 - 2,105",Arbor Court Apartment Homes
+248,"1619 W Crescent Ave, Anaheim, CA 92801",Studio - 2 Bed,844-730-4962,"$1,475 - 1,955",Monte Verde Apartment Homes
+249,"2944 E Frontera St, Anaheim, CA 92806",1-2 Bed,844-245-9109,"$1,780 - 1,900",Eastwood Apartment Homes
+250,"315 N Associated Rd, Brea, CA 92821",1-2 Bed,844-788-4735,"$1,615 - 2,060",Country Woods Apartment Homes
+251,"21141-21142 Canada Rd, Lake Forest, CA 92630",1-2 Bed,844-416-7558,"$1,620 - 2,020",Emerald Court Apartment Homes
+252,"22159 Rimhurst Dr, Lake Forest, CA 92630",1-2 Bed,844-403-3910,"$1,535 - 2,145",Trabuco Woods Apartment Homes
+253,"70 Sklar St, Ladera Ranch, CA 92694",1-3 Bed,844-708-1717,"$1,850 - 2,895",Laurel Glen Apartment Homes
+254,"76 Mercantile Way, Ladera Ranch, CA 92694",1-3 Bed,844-761-9658,"$2,030 - 2,895",Laurel Canyon Apartment Homes
+255,"155 S Angelina Dr, Placentia, CA 92870",1-2 Bed,844-884-8622,"$1,780 - 2,310",Oak Tree Court Apartment Homes
+256,"375 S Randolph Ave, Brea, CA 92821",Studio - 2 Bed,844-730-4817,Call for Rent,Maplewood Apartment Homes
+257,"2375 W Crescent Ave, Anaheim, CA 92801",1-2 Bed,844-877-8308,"$1,505 - 1,810",Orleans Apartment Homes
+258,"14221 Edwards St, Westminster, CA 92683",1-2 Bed,844-258-5134,"$1,610 - 1,935",Hollybrook Apartment Homes
+259,"2000 Corporate Dr, Ladera Ranch, CA 92694",1-2 Bed,844-720-6822,"$1,700 - 2,490",Laurel Terrace Apartment Homes
+260,"23151 Los Alisos Blvd, Mission Viejo, CA 92691",1-3 Bed,714-485-4863,"$1,545 - 3,060",Saddleback Ranch Apartments
+261,"28188 Moulton Pky, Laguna Niguel, CA 92677",1-2 Bed,844-445-4532,"$1,647 - 2,150",The Palms at Laguna Niguel
+262,"17300 Euclid St, Fountain Valley, CA 92708",2-3 Bed,844-447-2331,"$1,869 - 2,642",Valley Park
+263,"141 W Wilshire Ave, Fullerton, CA 92832",1-2 Bed,844-404-2968,"$1,769 - 2,546",Wilshire Promenade
+264,"1501 S Beach Blvd, La Habra, CA 90631",1-2 Bed,844-203-8572,"$1,685 - 2,633",Hillsborough Park
+265,"10441 Slater Ave, Fountain Valley, CA 92708",1-2 Bed,888-634-7310,"$1,711 - 2,238",The Havens
+266,"8400 Edinger Ave, Huntington Beach, CA 92647",Studio - 2 Bed,844-217-8705,"$1,610 - 2,394",The Huntington
+267,"25381 Mosswood Way, Lake Forest, CA 92630",1-2 Bed,844-254-3842,"$1,939 - 2,446",Trabuco Villas
+268,"201 E Chapman Ave, Placentia, CA 92870",1-2 Bed,844-791-6997,"$1,588 - 2,211",Villa Angelina
+269,"229 E Commonwealth Ave, Fullerton, CA 92832",Studio - 3 Bed,844-320-3552,"$1,976 - 3,461",Pinnacle at Fullerton
+270,"3100 E Yorba Linda Blvd, Fullerton, CA 92831",Studio - 2 Bed,844-833-9499,"$1,499 - 2,149",Haver Hill
+271,"901-961 S Idaho St, La Habra, CA 90631",1-2 Bed,844-266-0130,"$1,505 - 1,565",Village Green
+272,"21270 Beach Blvd, Huntington Beach, CA 92648",Studio - 2 Bed,844-898-5906,"$1,748 - 2,466",Huntington Breakers
+273,"15-15 MacArthur Pl, Santa Ana, CA 92707",1-2 Bed,844-320-3349,"$2,970 - 6,192",Essex Skyline at MacArthur Place
+274,"120 Calle Amistad, San Clemente, CA 92673",1-3 Bed,844-301-0058,"$1,908 - 2,844",Pinnacle at Talega
+275,"31 E MacArthur C..., Santa Ana, CA 92707",1-2 Bed,844-827-0915,"$2,005 - 2,474",Pinnacle at MacArthur Place
+276,"4200 W 1st St, Santa Ana, CA 92703",1-2 Bed,844-862-5416,"$1,511 - 2,116",Parkside Court
+277,"29752 Melinda Rd, Rancho Santa Margarita, CA 92688",1-3 Bed,844-211-4615,"$1,603 - 2,078",Cortesia at Rancho Santa Margarita
+278,"2400 E Lincoln Ave, Anaheim, CA 92806",1-2 Bed,844-608-2075,"$1,592 - 2,047",Barkley
+279,"2045 S State College Blvd, Anaheim, CA 92806",1-3 Bed,888-702-7458,"$2,330 - 3,735",Anavia
+280,"2341 Daphne Pl, Fullerton, CA 92833",3 Bed,844-366-9606,"$2,612 - 2,904",Capri At Sunny Hills
+281,"1300 E Fairhaven Ave, Santa Ana, CA 92705",1-2 Bed,844-543-0938,"$1,684 - 2,204",Fairhaven
+282,"2300 Dupont Dr, Irvine, CA 92612",Studio - 3 Bed,844-509-7704,"$2,883 - 3,801",Axis 2300
+283,"650 W Broadway, Anaheim, CA 92805",Studio - 2 Bed,844-580-3816,"$1,815 - 2,290",Avanti
+284,"24922 Hidden Hills Rd, Laguna Niguel, CA 92677",2-3 Bed,877-585-3023,"$2,010 - 2,655",Windridge
+285,"31872 Joshua Dr, Rancho Santa Margarita, CA 92679",1-2 Bed,844-274-7108,"$1,685 - 2,586",Trabuco Highlands
+286,"8945 Riverbend Dr, Huntington Beach, CA 92647",1-2 Bed,844-852-6306,"$1,924 - 2,597",Sendero Huntington Beach
+287,"655 Baker St, Costa Mesa, CA 92626",1-3 Bed,844-744-7392,"$1,735 - 2,815",South Pointe
+288,"25211 Stockport St, Laguna Hills, CA 92653",1-2 Bed,844-228-2199,"$1,700 - 2,100",Alicia Village
+289,"801 E Orangewood Ave, Anaheim, CA 92802",1-2 Bed,844-845-3866,"$1,745 - 2,360",Hampton Pointe
+290,"2627 N Bourbon St, Orange, CA 92865",1-2 Bed,844-257-1311,"$1,720 - 2,200",Casa Ciento
+291,"15123 Brookhurst St, Westminster, CA 92683",Studio - 2 Bed,844-882-8422,"$1,605 - 2,170",Cinnamon Creek
+292,"1201 SE Walnut Ave, Tustin, CA 92780",1-2 Bed,844-852-9503,"$1,735 - 2,080",Walnut East
+293,"2421 E Ball Rd, Anaheim, CA 92806",1-2 Bed,844-428-4458,"$1,715 - 2,090",The Villager
+294,"1630 Orchard Dr, Placentia, CA 92870",Studio - 2 Bed,844-638-1521,"$1,560 - 2,280",Sedona
+295,"7051 Natal Dr, Westminster, CA 92683",1-2 Bed,844-867-1830,"$1,620 - 2,000",Sutton Place
+296,"15200 Magnolia St, Westminster, CA 92683",1-2 Bed,844-454-2934,"$1,695 - 2,090",Calespana
+297,"225 Festival Dr, Anaheim, CA 92808",1-2 Bed,844-824-0494,"$1,801 - 2,237",Overlook At Anaheim Hills 55+
+298,"2301 E Ball Rd, Anaheim, CA 92806",Studio - 2 Bed,844-704-0314,"$1,500 - 2,125",Casa Madrid
+299,"1421 N Gilbert St, Fullerton, CA 92833",1 Bed,844-712-7208,"$1,840 - 1,930",Cinnamon Ridge
+300,"1142 Buckingham Dr, Costa Mesa, CA 92626",Studio - 2 Bed,844-217-5186,"$1,980 - 2,800",Wimbledon Glen
+301,"17272 Walnut Ave, Tustin, CA 92780",1-2 Bed,844-719-7871,"$1,675 - 2,055",Nogal Feliz
+302,"2613 S Fairview Sreet St, Santa Ana, CA 92704",1-3 Bed,877-394-6579,"$1,575 - 2,285",Fairview Green
+303,"25212 Stockport St, Laguna Hills, CA 92653",1-2 Bed,844-618-4631,"$1,740 - 2,090",Alicia Plaza
+304,"26356 Vintage Woods St, Lake Forest, CA 92630",1-2 Bed,844-831-4820,"$1,699 - 2,305",The Arbors
+305,"26451 Camino de Vis, San Juan Capistrano, CA 92675",1-2 Bed,844-838-4746,"$1,697 - 2,642",Capistrano Pointe
+306,"2459 Corte Merlango, San Clemente, CA 92673",Studio - 3 Bed,844-601-7464,"$1,719 - 2,653",Pacific Pointe
+307,"26891 La Alameda Ln, Mission Viejo, CA 92691",1-2 Bed,844-853-6853,"$1,739 - 2,999",Camden Crown Valley
+308,"30252 Pacific Island Dr, Laguna Niguel, CA 92677",1-2 Bed,844-252-1438,"$1,805 - 2,724",Niguel Summit
+309,"26371 Paloma, Foothill Ranch, CA 92610",1-3 Bed,844-883-3552,"$1,629 - 3,231",Paloma Summit
+310,"800 S Brea Blvd, Brea, CA 92821",1-2 Bed,714-831-2331,"$1,705 - 2,105",Town and Country
+311,"901 S Harbor Blvd, Santa Ana, CA 92704",Studio - 1 Bed,844-235-9044,"$1,445 - 1,665",California Palms
+312,"12091-12156 Bayport St, Garden Grove, CA 92840",Studio,844-672-8121,"$1,358 - 1,416",Crystal View Apartments
+313,"1491 N Glassell St, Orange, CA 92867",1-3 Bed,844-655-6395,"$1,810 - 2,900",Lantern Bay
+314,"21011 Osterman Rd, Lake Forest, CA 92630",2-3 Bed,844-271-9545,"$1,890 - 2,666",Crestwood
+315,"126 E 18th St, Costa Mesa, CA 92627",Studio - 2 Bed,844-290-3148,"$1,695 - 2,355",Eastside
+316,"2701 W McFadden Ave, Santa Ana, CA 92704",1-2 Bed,844-263-1553,"$1,545 - 2,035",Villa Del Sur
+317,"7891-7925 Oleander Cir, Buena Park, CA 90620",2 Bed,844-881-3219,"$1,805 - 1,955",Cantabria
+318,"13884-13888 Euclid St, Garden Grove, CA 92843",1-3 Bed,844-202-3601,"$1,665 - 2,425",Solara
+319,"2631 W Felicidad Cir, Anaheim, CA 92801",2-4 Bed,844-223-1886,"$1,799 - 2,495",The Evergreens
+320,"2000 Parsons St, Costa Mesa, CA 92627",Studio - 2 Bed,844-278-5421,"$1,650 - 2,350",The Parsons
+321,"1311 Washington Pl, Santa Ana, CA 92701",2 Bed,844-229-1981,"$2,150 - 2,250",Washington Place
+322,"530 W Wilson St, Costa Mesa, CA 92627",2 Bed,844-312-5580,"$1,930 - 1,980",Apex Apartment Homes
+323,"9352-9372 Holder St, Cypress, CA 90630",1-2 Bed,844-851-0965,"$1,575 - 2,050",Royal Gardens
+324,"707 W Santa Ana St, Anaheim, CA 92805",1-2 Bed,562-315-7692,"$1,480 - 2,775",Heritage Village Anaheim for Seniors
+325,"3800 S Flower St, Santa Ana, CA 92707",1-2 Bed,844-215-6934,"$1,872 - 2,400",Courtyards at South Coast
+326,"13202 Myford Rd, Tustin, CA 92782",2-3 Bed,855-375-3505,"$2,175 - 3,465",Rancho Tierra Apartment Homes
+327,"1300 Hayes, Irvine, CA 92620",1-3 Bed,844-454-9015,"$1,750 - 5,015",Northwood Apartment Homes
+328,"5100 Colony Plz, Newport Beach, CA 92660",1-2 Bed,844-631-0927,"$3,080 - 9,125",Colony at Fashion Island
+329,"2955 Champion Way, Tustin, CA 92782",Studio - 2 Bed,844-883-4628,"$1,750 - 4,060",Sierra Vista Apartment Homes
+330,"400 Enclave Cir, Costa Mesa, CA 92626",1-2 Bed,844-219-6361,"$1,965 - 4,280",The Enclave at South Coast
+331,"101 Veneto, Irvine, CA 92614",1-3 Bed,844-889-7174,"$1,840 - 3,280",San Marco Villa Apartment Homes
+332,"100 Monte Vis, Irvine, CA 92602",1-3 Bed,844-449-1578,"$2,240 - 5,640",Solana Apartment Homes
+333,"500 Estancia, Irvine, CA 92602",1-3 Bed,657-383-4639,"$1,875 - 4,690",Estancia Apartment Homes
+334,"100 Robinson Dr, Tustin, CA 92782",1-2 Bed,844-302-9381,"$1,915 - 3,835",Rancho Monterey Apartment Homes
+335,"100 Oak Glen, Irvine, CA 92618",1-2 Bed,844-239-3139,"$1,800 - 3,780",Oak Glen Apartment Homes
+336,"2480 Irvine Blvd, Tustin, CA 92782",2-3 Bed,714-782-9247,"$2,385 - 4,840",Rancho Santa Fe Apartment Homes
+337,"1000 Archway, Irvine, CA 92618",1-3 Bed,844-274-2767,"$1,915 - 3,990",Portola Place Apartment Homes
+338,"100 Las Palmas Dr, Irvine, CA 92602",1-2 Bed,844-812-9363,"$1,825 - 3,675",Las Palmas Apartment Homes
+339,"100 Cantata, Irvine, CA 92606",Studio - 2 Bed,844-204-1704,"$1,770 - 3,690",San Mateo Apartment Homes
+340,"100 Anacapa, Irvine, CA 92602",1-2 Bed,844-719-7872,"$1,935 - 4,335",Anacapa Apartment Homes
+341,"1 Ambroise, Newport Beach, CA 92657",2-3 Bed,844-266-4693,"$3,245 - 6,930",Bordeaux Apartment Homes
+342,"1103 Esperanza, Irvine, CA 92618",1-2 Bed,844-317-3080,"$1,825 - 4,385",Esperanza Apartment Homes
+343,"100 Saint Vincent, Irvine, CA 92618",1-3 Bed,844-714-5999,"$1,915 - 5,230",Brittany Apartment Homes
+344,"10 Marketview, Irvine, CA 92602",1-2 Bed,844-236-5383,"$1,905 - 3,680",Somerset Apartment Homes
+345,"100 Mirasol, Irvine, CA 92620",1-2 Bed,844-889-7186,"$1,805 - 4,535",Stonegate Apartment Homes
+346,"13408 Heritage Way, Tustin, CA 92782",1-2 Bed,844-351-6615,"$1,840 - 3,565",Rancho Maderas Apartment Homes
+347,"100 Wycliffe, Irvine, CA 92602",1-2 Bed,844-484-3179,"$1,790 - 3,920",Serrano Apartment Homes
+348,"700 Sonoma Aisle, Irvine, CA 92618",2-3 Bed,844-293-9657,"$2,540 - 5,345",Sonoma Apartment Homes
+349,"115 Pinestone, Irvine, CA 92604",1-3 Bed,949-556-4825,"$1,880 - 3,540",Woodbridge Pines Apartment Homes
+350,"13800 Parkcenter Ln, Tustin, CA 92782",1-3 Bed,714-782-9300,"$1,855 - 4,895",Rancho Alisal Apartment Homes
+351,"1 Baywood Dr, Newport Beach, CA 92660",1-3 Bed,844-871-3891,"$1,925 - 5,690",The Bays Apartment Homes
+352,"13211 Myford Rd, Tustin, CA 92782",1-2 Bed,844-868-7899,"$1,745 - 3,415",Rancho Mariposa Apartment Homes
+353,"9440 Clover Ave, Fountain Valley, CA 92708",1-2 Bed,714-786-8183,"$1,625 - 2,125",GRANDE
+354,"3931 Orange Ave, Anaheim, CA 92804",1 Bed,714-252-4613,"$1,625",PINE MEADOWS
+355,"700 W La Jolla St, Placentia, CA 92870",1-2 Bed,844-473-6329,"$1,725 - 1,900",EL ADOBE
+356,"31 Seaport, Laguna Niguel, CA 92677",1-2 Bed,844-323-4543,"$1,598 - 3,500",Seaside at Laguna Heights
+357,"310 S Jefferson St, Placentia, CA 92870",1-2 Bed,877-317-4340,"$1,590 - 3,900",Merrick Apartments
+358,"28150 Cabot Rd, Laguna Niguel, CA 92677",1-2 Bed,844-795-6581,"$1,894 - 3,437",Skye at Laguna Niguel
+359,"21486 Lake Forest Dr, Lake Forest, CA 92630",1-2 Bed,888-459-4157,"$1,841 - 2,801",Ridgecrest
+360,"201 N Wayfield St, Orange, CA 92867",1-2 Bed,714-602-3295,"$1,565 - 1,995",Orangewood Villa
+361,"1120 N Placentia Ave, Fullerton, CA 92831",1-2 Bed,714-278-4158,"$1,488 - 2,537",El Dorado Apartments
+362,"2456 E Nutwood Ave, Fullerton, CA 92831",1-2 Bed,844-347-0211,"$1,600 - 2,000",Nutwood Apartments
+363,"16425 Harbor Blvd, Fountain Valley, CA 92708",1-2 Bed,844-820-3028,"$1,710 - 3,170",The Galleria
+364,"1235 W Town Rd, Orange, CA 92868",1-2 Bed,877-268-6719,"$1,895 - 3,375",Windsor at Main Place
+365,"1151 Walnut Ave, Tustin, CA 92780",1-2 Bed,844-349-3662,"$1,708 - 3,318",Terra at Tustin
+366,"2170 S Harbor Blvd, Anaheim, CA 92802",1-2 Bed,844-845-6353,Call for Rent,Harbor Cliff Apartments
+367,"2611 W Baylor Cir, Anaheim, CA 92801",1-2 Bed,844-245-9061,"$1,560 - 1,790",Springtree Apartments
+368,"845 Paularino Ave, Costa Mesa, CA 92626",Studio - 2 Bed,844-238-1225,"$1,890 - 2,265",The Village at South Coast
+369,"9651 Graham St, Cypress, CA 90630",1-2 Bed,844-822-2306,Call for Rent,Cypress Park Apartments
+370,"30122 Niguel Rd, Laguna Niguel, CA 92677",2 Bed,844-356-1764,"$2,120 - 2,815",The Vista at Laguna
+371,"2235 W Broadway, Anaheim, CA 92804",Studio - 2 Bed,866-331-8678,"$1,438 - 2,829",Madison Park Apartment Homes
+372,"2010 Ponderosa St, Santa Ana, CA 92705",1-2 Bed,844-866-6845,"$1,595 - 2,225",Tustin View
+373,"13061 Lampson Ave, Garden Grove, CA 92840",2 Bed,844-899-4706,"$1,900 - 1,950",City Villas
+374,"1322 Walnut Ave, Tustin, CA 92780",1-2 Bed,844-275-0002,"$1,545 - 2,175",Briarwood Apartment Homes
+375,"1750 W Romneya Dr, Anaheim, CA 92801",1 Bed,714-503-0934,"$1,475",Stone Creek Apartments
+376,"401 W La Veta Ave, Orange, CA 92866",2-3 Bed,844-850-2127,"$1,995 - 2,445",La Veta Grand
+377,"3301 Yorba Linda Blvd, Fullerton, CA 92831",Studio - 2 Bed,844-719-4845,"$1,130 - 1,850",Sycamore Village
+378,"1920 Sherry Ln, Santa Ana, CA 92705",2 Bed,657-622-0554,"$2,195",Sherry Lane Garden Homes
+379,"635 W Baker St, Costa Mesa, CA 92626",1-2 Bed,844-518-1505,"$1,512 - 2,178",Newport Village
+380,"8211 San Angelo Dr, Huntington Beach, CA 92647",Studio - 2 Bed,844-275-8044,"$1,630 - 2,310",Huntington Creek Apartments
+381,"13212 Magnolia St, Garden Grove, CA 92844",1-2 Bed,844-536-4310,"$1,578 - 2,018",Rancho Monterey
+382,"1401 S Harbor Blvd, La Habra, CA 90631",1-2 Bed,888-264-1276,"$1,595 - 2,060",Brooklake Apartments
+383,"2020 W Alameda Ave, Anaheim, CA 92801",1 Bed,888-312-9829,"$1,465 - 1,475",Chateau De Ville
+384,"11121 Dino Cir, Garden Grove, CA 92840",1-3 Bed,844-726-7481,"$1,485 - 2,695",Quiet Cove Apartments
+385,"1101 W Stevens Ave, Santa Ana, CA 92707",1-2 Bed,888-559-9874,"$1,681 - 2,240",South Coast Racquet Club
+386,"2300 Fairview Rd, Costa Mesa, CA 92626",1-2 Bed,844-460-9542,"$1,550 - 1,900",Pinecreek Apartments
+387,"1001 N Harbor Blvd, La Habra, CA 90631",1-3 Bed,844-716-1558,"$1,506 - 2,306",North Pointe Villas
+388,"400 Merrimac Way, Costa Mesa, CA 92626",1-2 Bed,844-428-4448,"$1,695 - 2,095",Coast Apartments
+389,"16040 Springdale St, Huntington Beach, CA 92649",2 Bed,714-594-7837,"$2,045",San Miguel Apartments
+390,"2828 W Lincoln Ave, Anaheim, CA 92801",1-3 Bed,844-713-1221,"$1,370 - 1,635",Villa Del Sol Apartments
+391,"28401 Los Alisos Blvd, Mission Viejo, CA 92692",1-3 Bed,844-427-8355,"$1,775 - 2,999",Madrid Apartment Homes
+392,"2736 W Lincoln Ave, Anaheim, CA 92801",Studio - 2 Bed,844-809-3522,"$1,100 - 1,550",Harbor Village Apartments
+393,"1900 E Almont Ave, Anaheim, CA 92805",1-2 Bed,844-897-3091,"$1,050 - 1,575",Almont Apartments
+394,"8100 Park Plz, Stanton, CA 90680",1-2 Bed,714-793-0352,"$1,225 - 1,575",Park Plaza Apartments
+395,"2600 W La Habra Blvd, La Habra, CA 90631",Studio - 3 Bed,844-494-8097,"$1,325 - 2,375",The Springs
+396,"9580 El Rey Ave, Fountain Valley, CA 92708",1-2 Bed,844-687-2506,Call for Rent,Corte Bella
+397,"1244 Irvine Ave, Newport Beach, CA 92660",1-3 Bed,949-386-8722,"$1,996 - 2,851",Mariner Square
+398,"1300 Las Riendas Dr, La Habra, CA 90631",2 Bed,844-805-7550,"$1,995",The Cottages
+399,"21851 Newland St, Huntington Beach, CA 92646",3 Bed,877-586-0839,"$2,300 - 3,600",Huntington By the Sea Mobile Estates
+400,"3201 Yorba Linda Blvd, Fullerton, CA 92831",Studio - 2 Bed,714-831-2240,"$1,325 - 1,950",Tribeca Apartments
+401,"14101-14201 Browning Ave, Tustin, CA 92780",1 Bed,844-244-8505,"$1,675 - 1,705",Pinetree Park Apartments
+402,"2039 Artesia Blvd, Torrance, CA 90504",1-2 Bed,310-817-6666,"$1,895 - 2,275",Torrance Gardens
+403,"1200 S Highland Ave, Fullerton, CA 92832",2-3 Bed,844-202-6590,"$2,035 - 2,250",Fullerton Townhouse Apartments
+404,"1765-1765 Santa Ana Ave, Costa Mesa, CA 92627",Studio - 3 Bed,864-558-2862,"$1,660 - 3,310",AVA Newport
+405,"24950 Via Florecer Via, Mission Viejo, CA 92692",1-2 Bed,844-577-1556,"$1,715 - 1,940",eaves Mission Viejo
+406,"1401 N Placentia Ave, Fullerton, CA 92831",Studio - 2 Bed,714-451-2371,"$1,510 - 2,350",La Villita Apartment Homes
+407,"861 S Glencliff St, La Habra, CA 90631",1-2 Bed,844-711-4098,"$1,725 - 2,100",Monterra Springs
+408,"7802 Samura Pl, Garden Grove, CA 92841",1-2 Bed,877-264-2521,"$1,395 - 1,695",Mt. Vernon
+409,"719 S Knott Ave, Anaheim, CA 92804",1-2 Bed,714-252-4351,"$1,175 - 1,425",Villas Apartments Homes
+410,"1450 E Del Mar Ave, Orange, CA 92865",3 Bed,844-245-9125,"$2,145 - 2,560",Orange Plaza
+411,"8550 Commonwealth Ave, Buena Park, CA 90621",Studio - 1 Bed,844-889-7073,"$1,145 - 1,350",Fullerton Court Apartments
+412,"1220 Deerpark Dr, Fullerton, CA 92831",1-2 Bed,714-988-7942,"$1,525 - 2,400",Greenhouse Apartments
+413,"2190 College Ave, Costa Mesa, CA 92627",2 Bed,844-884-5650,"$2,099 - 2,156",Olive Tree
+414,"2611-2635 Yorba Linda Blvd, Fullerton, CA 92831",1 Bed,714-252-4357,"$1,485 - 1,775",Piccadilly Square Apartment Homes
+415,"2002 E Santa Clara Ave, Santa Ana, CA 92705",2 Bed,844-645-0209,"$2,260 - 2,350",Mango Tree Apartments
+416,"2230 W Orange Ave, Anaheim, CA 92804",1-2 Bed,844-300-2455,"$1,540 - 1,910",El Cortez Apartments
+417,"1939 Wallace Ave, Costa Mesa, CA 92627",1 Bed,844-888-2816,"$1,576 - 1,751",Bay Breeze
+418,"121 N La Reina Circle, Anaheim, CA 92801",1 Bed,714-503-0208,"$1,400 - 1,475",San Carlos Apartments
+419,"3603-3621 W Savanna St, Anaheim, CA 92804",2 Bed,714-676-3158,"$1,600 - 1,700",Biltmore Apartments
+420,"780-790 Hamilton St, Costa Mesa, CA 92627",1 Bed,844-281-5647,"$1,650",The Hamilton
+421,"1433 Superior Ave, Newport Beach, CA 92663",Studio - 1 Bed,855-381-6576,"$1,550 - 1,950",Beach House Apartments
+422,"11930 Banner Dr, Garden Grove, CA 92843",1-2 Bed,844-293-1988,"$1,435 - 1,745",Garden View Apartments
+423,"739 Paularino Ave, Costa Mesa, CA 92626",1 Bed,844-428-3448,"$1,675 - 1,725",South Coast Fountains
+424,"2110 Thurin St, Costa Mesa, CA 92627",3 Bed,844-823-2474,"$2,901 - 2,976",Greystone Townhouses
+425,"1525 Placentia Ave, Newport Beach, CA 92663",Studio - 2 Bed,844-586-0770,"$1,550 - 2,025",Sandpointe Cove
+426,"3161 W Ball Rd, Anaheim, CA 92804",Studio - 2 Bed,657-238-2524,"$1,080 - 1,550",Bell Court Apartments
+427,"2201 E La Palma Ave, Anaheim, CA 92806",Studio - 3 Bed,657-262-3526,"$1,095 - 1,850",Summerhill Village Apartments
+428,"475 E Center St, Anaheim, CA 92805",1-2 Bed,714-400-2838,"$1,710 - 2,170",The Village at Heritage Place
+429,"18832 Florida St, Huntington Beach, CA 92648",1-2 Bed,844-747-2694,"$1,675 - 2,020",Florida Gardens Apartments
+430,"11050 Cynthia Cir, Garden Grove, CA 92843",2-3 Bed,844-658-0664,"$1,995 - 2,495",The Bungalows
+431,"1730 N Community Dr, Anaheim, CA 92806",1-2 Bed,844-564-3109,"$1,350 - 1,750",Hillcrest Village Senior Living
+432,"3629 W Ball Rd, Anaheim, CA 92804",2 Bed,844-817-4876,"$1,700",Barcelona Apartments
+433,"16900 Algonquin St, Huntington Beach, CA 92649",1-3 Bed,844-800-3131,"$1,550 - 2,300",Bridgeport Apartment Homes
+434,"3070 Del Monte Dr, Anaheim, CA 92804",1-3 Bed,844-842-1420,"$1,345 - 2,250",Rancho Del Monte
+435,"7731 Trask Ave, Westminster, CA 92683",2 Bed,844-642-7058,"$1,825 - 1,840",Trask Apartments
+436,"2283 Fountain Way E, Costa Mesa, CA 92627",2 Bed,844-294-3789,"$1,895 - 1,995",Sea Breeze Townhomes
+437,"1260-1280 Walnut Ave, Tustin, CA 92780",Studio - 2 Bed,844-204-0847,"$1,500 - 2,000",Villa de Hacienda
+438,"1412 Nisson Rd, Tustin, CA 92780",1 Bed,844-269-1556,"$1,525",Casa Cortez Apartments
+439,"2520 W La Palma Ave, Anaheim, CA 92801",1 Bed,844-881-0234,"$1,495",La Palma Woods
+440,"200 E Chapman Ave, Placentia, CA 92870",1-2 Bed,844-262-8818,"$1,550 - 1,850",Chapman Woods Apartments
+441,"3582-3602 Green Ave, Los Alamitos, CA 90720",2 Bed,844-583-6544,"$2,395",La Arboleda
+442,"8182 7th St, Buena Park, CA 90621",2-3 Bed,844-247-9088,"$1,795 - 2,095",Diamond Crest Apartments
+443,"6741 W Ball St, Buena Park, CA 90620",2 Bed,844-813-4203,"$1,750",Casa Theresa
+444,"1955 Wallace Ave, Costa Mesa, CA 92627",1-2 Bed,844-859-8107,"$1,641 - 2,191",Wallace Court
+445,"450 N Armando St, Anaheim, CA 92806",1-2 Bed,844-245-9098,"$1,480 - 1,880",Colony Frontera
+446,"9021 Grindlay St, Cypress, CA 90630",1-2 Bed,844-816-7775,"$975 - 1,675",Cypress Park Senior Community 55+
+447,"5120 Lincoln Ave, Cypress, CA 90630",1 Bed,844-880-3258,"$1,000 - 1,325",Cypress Pointe Senior Community
+448,"9632 Hamilton Ave, Huntington Beach, CA 92646",1-2 Bed,844-736-6709,"$1,700 - 2,200",Sea Environment Apartments
+449,"2627 W Broadway, Anaheim, CA 92804",1-2 Bed,844-640-3361,"$1,440 - 1,890",Casa Del Prado Apartments
+450,"2660 W Ball Rd, Anaheim, CA 92804",Studio - 3 Bed,844-216-8102,"$1,280 - 2,150",Balboa Apartments
+451,"3300 W Lincoln Ave, Anaheim, CA 92801",1-2 Bed,844-231-7579,"$1,450 - 1,860",Sorrento Terrace Apartments
+452,"100 N Rob Way, Anaheim, CA 92801",1-3 Bed,844-221-0707,"$1,420 - 2,210",Lincoln Terrace
+453,"2441 W Lincoln Ave, Anaheim, CA 92801",1-2 Bed,844-824-9497,"$1,450 - 1,820",Sierra West Apartments
+454,"2477 W Lincoln Ave, Anaheim, CA 92801",1-3 Bed,844-458-2688,"$1,420 - 2,160",Villa Del Rey
+455,"3233 W Lincoln Ave, Anaheim, CA 92801",1-2 Bed,714-252-4621,"$1,510 - 1,860",Cambridge Terrace Apartments
+456,"1250 S Euclid Ave, Anaheim, CA 92802",1-3 Bed,844-429-2467,"$1,450 - 2,225",Coronado Palms
+457,"27260 Los Altos, Mission Viejo, CA 92691",1-3 Bed,844-508-8415,"$1,905 - 5,050",Vista Real Apartment Homes
+458,"2000 Oxford Ave, Fullerton, CA 92831",Studio - 3 Bed,844-246-0044,"$1,004",Oxford North
+459,"2100 W Commonwealth Ave, Fullerton, CA 92833",Studio,844-847-2827,"$1,230",Ambassador Inn Apartments
+460,"16102 Springdale St, Huntington Beach, CA 92649",1 Bed,844-338-2241,"$1,595 - 1,600",The Lamplighter
+461,"6900 Younger Dr, Buena Park, CA 90620",1-2 Bed,844-248-6019,"$1,500 - 1,850",L'abri Windsor Court Apartments
+462,"1691 Mesa Dr, Newport Beach, CA 92660",1-2 Bed,844-201-3817,"$1,795 - 2,195",Newport Bay Terrace
+463,"15652 Williams St, Tustin, CA 92780",Studio - 3 Bed,844-660-4930,"$1,425 - 2,600",The Alders Apartment Homes
+464,"9600 Walker St, Cypress, CA 90630",1-2 Bed,844-736-3554,"$1,400 - 1,600",Robin Meadows
+465,"2540 W Ball Rd, Anaheim, CA 92804",1-2 Bed,844-795-7548,"$1,550 - 1,850",Monticello Apartments
+466,"955 W 19th St, Costa Mesa, CA 92627",Studio - 2 Bed,844-695-5312,"$1,611 - 2,116",Westlake Village
+467,"3601 W Orange Ave, Anaheim, CA 92804",2 Bed,844-445-6048,"$1,850",Orange View Villas
+468,"7270-7300 8th St, Buena Park, CA 90621",1-2 Bed,844-851-0971,"$1,300 - 1,600",Boardwalk & Park Place
+469,"650 S Webster Ave, Anaheim, CA 92804",1-2 Bed,844-487-7395,"$1,550 - 1,795",The Villas at Anaheim
+470,"601-635 N Chippewa Ave, Anaheim, CA 92801",1-3 Bed,844-412-6801,"$1,395 - 2,250",Cedar Glen
+471,"2642 W Lincoln Ave, Anaheim, CA 92801",2 Bed,844-359-3002,"$1,695 - 1,975",Lincoln Park
+472,"225 N Oak St, Orange, CA 92867",1-2 Bed,844-823-6224,"$1,450 - 1,700",Casa De Sol
+473,"1560 S Highland Ave, Fullerton, CA 92832",Studio - 2 Bed,844-206-8262,"$1,350 - 1,900",Highland Meadows Apartments
+474,"1722 N Bush St, Santa Ana, CA 92706",Studio - 2 Bed,844-429-2466,"$1,350 - 1,825",The Imperial Apartments
+475,"500 N Park Vista St, Anaheim, CA 92806",1-3 Bed,844-305-6840,"$1,500 - 2,200",Park Meadows Apartments
+476,"860-900 W Lambert Rd, La Habra, CA 90631",1-2 Bed,844-296-3448,"$1,525 - 1,845",Sand Castle Apartments
+477,"17200 McFadden Ave, Tustin, CA 92780",1-3 Bed,844-342-1642,"$1,595 - 2,550",Country Squire Apartments
+478,"1100 Stanford, Irvine, CA 92612",1-2 Bed,844-395-3078,"$2,200 - 3,000",Stanford Court
+479,"13122 Benton St, Garden Grove, CA 92843",1-2 Bed,844-294-9142,"$1,450",Chanteclair Apartments
+480,"353 S Tustin St, Orange, CA 92866",1-2 Bed,844-888-5039,"$1,050 - 1,600",Creekview Senior Community
+481,"9642 Walker Ct, Cypress, CA 90630",1 Bed,844-231-9587,Call for Rent,Casa Walker
+482,"10250 Beach Blvd, Stanton, CA 90680",2-3 Bed,844-467-1256,"$1,680 - 2,095",Faircrest Apartments
+483,"9155 Central Ave, Garden Grove, CA 92844",1-2 Bed,844-527-9676,"$1,605 - 2,000",Park Grove
+484,"13920 Hoover St, Westminster, CA 92683",Studio - 2 Bed,877-267-1342,"$1,195 - 1,895",HW Senior Apartments
+485,"12221 Beach Blvd, Garden Grove, CA 92841",1-2 Bed,844-221-4503,"$1,585 - 1,875",Beach Creek Resort Apartments
+486,"619 W Maple Ave, Orange, CA 92868",2 Bed,657-223-2444,"$1,995",Villas at Orange
+487,"100 Stonecliff Aisle, Irvine, CA 92612",1-3 Bed,949-864-2339,"$2,215 - 4,810",Turtle Rock Canyon Apartment Homes
+488,"1631 W Pampas Ln, Anaheim, CA 92802",2 Bed,844-892-3694,"$1,800",Pampas Lane Tropical Garden Apartments
+489,"1680 W Tedmar Ave, Anaheim, CA 92802",1-2 Bed,844-864-8590,"$1,150 - 1,425",Casa Fortin Apartments
+490,"110 S Balcom Ave, Fullerton, CA 92832",1-2 Bed,844-357-7125,"$1,595",Balcom Park Apartments
+491,"15601 Tustin Village Way, Tustin, CA 92780",1-2 Bed,844-232-6114,"$1,695 - 1,935",Holiday Garden
+492,"138 E Briardale Ave, Orange, CA 92865",1-2 Bed,844-780-4043,"$1,725 - 1,925",Briar Villa Apartments
+493,"2111 W 17th St, Santa Ana, CA 92706",1-2 Bed,844-839-0095,"$1,525 - 1,835",Solare Apartments
+494,"2783 N Auburn St, Orange, CA 92867",1-2 Bed,714-888-4768,"$1,675 - 2,150",Eastridge Apartment Homes
+495,"10542 Westminster Ave, Garden Grove, CA 92843",1-2 Bed,844-353-2815,Call for Rent,Robin Meadows of Garden Grove
+496,"727 S Lyon St, Santa Ana, CA 92705",1-2 Bed,844-831-7282,"$1,600 - 2,025",Las Fuentes
+497,"526 W Vermont Ave, Anaheim, CA 92805",Studio - 2 Bed,844-360-1554,"$1,550 - 1,650",Lucera Luxury Apartment Homes
+498,"2900 W Lincoln Ave, Anaheim, CA 92801",1-2 Bed,844-828-1545,"$1,200 - 1,675",The Biltmore Apartments
+499,"7051 Cerritos Ave, Stanton, CA 90680",2 Bed,844-453-6845,"$1,695 - 1,720",Park Cerritos Apartments
+500,"8882 Cerritos Ave, Anaheim, CA 92804",2-3 Bed,844-641-6915,"$1,750 - 1,995",Park Royal Apartments
+501,"9662-9672 Maureen Dr, Garden Grove, CA 92841",1-2 Bed,844-648-7559,"$1,425",Mistyvale Apartments
+502,"1800 Wallace Ave, Costa Mesa, CA 92627",Studio - 2 Bed,844-779-9892,Call for Rent,Monte Sereno Apartments
+503,"3534 W Ball Rd, Anaheim, CA 92804",Studio - 2 Bed,844-817-5627,"$1,250 - 1,825",Cape Cod Apartments
+504,"1025 N Tustin St, Orange, CA 92867",1-2 Bed,657-223-2422,"$1,550 - 1,800",Robin Meadows Orange

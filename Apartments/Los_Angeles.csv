@@ -1,0 +1,661 @@
+,Address,Beds,Phone,Price,Title
+0,"5550 Hollywood Blvd, Los Angeles, CA 90028",Studio - 3 Bed,855-547-1454,"$2,445 - 4,560",The 5550
+1,"1331 W 7th St, Los Angeles, CA 90017",Studio - 3 Bed,844-748-4539,"$2,260 - 6,280",Seven West Apartments
+2,"8601 Lincoln Blvd, Los Angeles, CA 90045",Studio - 3 Bed,844-845-3312,"$2,395 - 5,685",Playa Del Oro
+3,"738 Wilcox Ave, Los Angeles, CA 90038",Studio - 2 Bed,844-868-0335,"$2,480 - 5,625",Broadstone Candara at Hancock Park
+4,"1300 S Figueroa St, Los Angeles, CA 90015",Studio - 3 Bed,844-790-8918,"$2,798 - 3,857",City Lights on Fig
+5,"630 S Masselin Ave, Los Angeles, CA 90036",Studio - 2 Bed,844-868-2356,"$2,289 - 7,869",The Preston Miracle Mile Apartments
+6,"3183 Wilshire Blvd, Los Angeles, CA 90010",Studio - 2 Bed,213-985-0676,"$1,888 - 3,072",Wilshire Vermont
+7,"5901-5921 Center Dr, Los Angeles, CA 90045",1-2 Bed,214-206-9498,"$2,703 - 4,390",Modera West LA
+8,"1221 W 3rd St, Los Angeles, CA 90017",Studio - 2 Bed,844-821-6231,"$1,899 - 4,274",The Visconti
+9,"1026 S Broadway, Los Angeles, CA 90015",Studio - 2 Bed,844-838-0810,"$2,035 - 4,491",Broadway Palace
+10,"550 N Figueroa St, Los Angeles, CA 90012",Studio - 2 Bed,213-784-4738,"$1,825 - 3,350",The Orsini
+11,"609 St Paul Ave, Los Angeles, CA 90017",Studio - 2 Bed,844-810-5513,"$1,875 - 4,744",The Piero
+12,"725 S Bixel St, Los Angeles, CA 90017",Studio - 3 Bed,213-599-7250,"$1,875 - 4,999",The Medici
+13,"909 W Temple St, Los Angeles, CA 90012",Studio - 3 Bed,844-730-8917,"$1,999 - 4,199",Da Vinci
+14,"6040 Center Dr, Los Angeles, CA 90045",Studio - 2 Bed,424-732-7536,"$2,384 - 4,013",Altitude
+15,"235 S San Pedro St, Los Angeles, CA 90012",Studio - 2 Bed,877-460-3704,"$2,068 - 3,058",Sakura Crossing
+16,"501 S New Hampshire Ave, Los Angeles, CA 90020",Studio - 2 Bed,877-592-9825,"$1,776 - 2,783",Hampshire Place
+17,"6245 Wilshire Blvd, Los Angeles, CA 90048",Studio - 3 Bed,844-232-6118,"$3,126 - 12,784",Vision on Wilshire
+18,"717 W Olympic Blvd, Los Angeles, CA 90015",1-2 Bed,844-881-5260,"$3,020 - 14,192",717 Olympic
+19,"3033 Wilshire Blvd, Los Angeles, CA 90010",Studio - 2 Bed,844-666-0615,"$2,248 - 28,489",3033 Wilshire
+20,"1213-1237 S Olive St, Los Angeles, CA 90015",Studio - 2 Bed,844-757-9558,"$2,217 - 7,898",OLiVE DTLA
+21,"1200 S Figueroa St, Los Angeles, CA 90015",1-3 Bed,949-431-2886,"$2,945 - 24,390",Circa LA
+22,"7045-7051 Lanewood Ave, Los Angeles, CA 90028",Studio - 2 Bed,844-393-0756,"$1,975 - 3,304",The Pines
+23,"550 S Main St, Los Angeles, CA 90013",Studio - 3 Bed,424-320-5291,"$1,789 - 4,619",Topaz
+24,"620 S Virgil Ave, Los Angeles, CA 90005",Studio - 2 Bed,323-800-5550,"$2,000 - 3,873",Next on Sixth
+25,"424 W Pico Blvd, Los Angeles, CA 90015",Studio - 3 Bed,949-264-8110,"$1,779 - 4,539",Onyx DTLA
+26,"1200 S Broadway, Los Angeles, CA 90015",Studio - 2 Bed,844-633-4135,"$2,017 - 3,992",AXIS
+27,"705 W 9th St, Los Angeles, CA 90015",1-3 Bed,866-974-8610,"$3,050 - 15,184",Watermarke Tower
+28,"1540 N Vine St, Los Angeles, CA 90028",Studio - 2 Bed,877-365-6685,"$2,149 - 4,649",The Camden
+29,"1550 N El Centro Ave, Los Angeles, CA 90028",1-2 Bed,323-380-1421,"$3,500 - 6,500",Hollywood Proper Residences
+30,"6138 Franklin Ave, Los Angeles, CA 90028",Studio - 2 Bed,844-341-3986,"$2,241 - 4,322",La Belle At Hollywood Tower
+31,"123 S Figueroa St, Los Angeles, CA 90012",Studio - 2 Bed,855-540-8832,"$1,242 - 3,373",Promenade Towers
+32,"255 S Grand Ave, Los Angeles, CA 90012",Studio - 2 Bed,888-708-8794,"$1,833 - 6,932",255 Grand
+33,"727 W 7th St, Los Angeles, CA 90017",Studio - 3 Bed,844-850-7472,"$2,390 - 8,500",Roosevelt Lofts
+34,"225 S Olive St, Los Angeles, CA 90012",Studio - 2 Bed,844-295-8164,"$1,853 - 7,202",Museum Tower
+35,"6200 W 3rd St, Los Angeles, CA 90036",Studio - 3 Bed,844-831-1452,"$1,892 - 3,805",Park La Brea
+36,"4121 Wilshire Blvd, Los Angeles, CA 90010",1-4 Bed,323-746-9097,"$3,300 - 23,500",Los Altos Apartments
+37,"901 S Broadway, Los Angeles, CA 90015",Studio - 2 Bed,844-269-3940,"$2,100 - 3,500",Blackstone Luxury Apartments
+38,"14500 Sherman Cir, Los Angeles, CA 91405",1-3 Bed,844-877-1664,"$2,024 - 3,258",IMT Sherman Circle
+39,"6220 W 3rd St, Los Angeles, CA 90036",1-3 Bed,844-523-5081,"$2,640 - 16,719",Palazzo West at The Grove
+40,"5555 W 6th St, Los Angeles, CA 90036",1-2 Bed,323-594-8178,"$2,655 - 5,656",Villas at Park La Brea Apartments
+41,"7660 Beverly Blvd, Los Angeles, CA 90036",1-2 Bed,844-750-9852,"$2,480 - 5,903",Broadcast Center Apartments
+42,"348 S Hauser Blvd, Los Angeles, CA 90036",1-3 Bed,844-807-8617,"$2,510 - 10,726",Palazzo East
+43,"850 Crenshaw Blvd, Los Angeles, CA 90005",2-3 Bed,855-783-1650,"$3,650 - 4,740",Windsor Square Villas
+44,"6201 Hollywood Blvd, Los Angeles, CA 90028",Studio - 2 Bed,844-287-7735,"$2,075 - 4,310",Eastown
+45,"888 S Hope St, Los Angeles, CA 90017",Studio - 2 Bed,844-429-7535,"$2,180 - 12,555",888 at Grand Hope Park
+46,"750 S Garland Ave, Los Angeles, CA 90017",Studio,866-747-6312,"$1,600 - 2,400",The Flat
+47,"687 S Hobart Blvd, Los Angeles, CA 90005",Studio - 2 Bed,844-781-2007,"$1,909 - 3,875",The Pearl
+48,"1745 N Wilcox Ave, Los Angeles, CA 90028",Studio - 2 Bed,323-856-1781,"$1,785 - 4,400",Duet on Wilcox
+49,"5100 Wilshire Blvd, Los Angeles, CA 90036",Studio - 3 Bed,844-486-8286,"$2,450 - 10,000",THE MANSFIELD
+50,"5550 Grosvenor Blvd, Los Angeles, CA 90066",1-3 Bed,844-661-2881,"$2,769 - 7,204",Accent
+51,"1200 S Grand Ave, Los Angeles, CA 90015",Studio - 2 Bed,844-853-6528,"$2,143 - 7,607",G12
+52,"232 E 2nd St, Los Angeles, CA 90012",Studio - 2 Bed,844-577-3561,"$2,045 - 4,242",Wakaba LA
+53,"1040 Glendon Ave, Los Angeles, CA 90024",1-3 Bed,424-269-6016,"$3,450 - 8,316",The Glendon
+54,"950 S Fairfax Ave, Los Angeles, CA 90036",Studio - 2 Bed,844-381-2547,"$2,600 - 7,000",Vinz on Fairfax
+55,"639 N Fairfax Ave, Los Angeles, CA 90036",Studio - 2 Bed,844-220-2137,"$2,695 - 6,520",nVe Fairfax
+56,"900 S Figueroa St, Los Angeles, CA 90015",Studio - 3 Bed,844-550-8619,"$2,740 - 7,740",APEX. The One.
+57,"10000 Santa Monica Blvd, Los Angeles, CA 90067",1-4 Bed,844-635-2358,"$9,200 - 20,000",Ten Thousand
+58,"5550 Wilshire Blvd, Los Angeles, CA 90036",1-3 Bed,866-677-1435,"$3,355 - 7,640",5550 Wilshire at Miracle Mile by Windsor
+59,"936 S Olive St, Los Angeles, CA 90015",Studio - 2 Bed,213-908-1786,"$2,250 - 5,675",Olympic by Windsor
+60,"1555 N Vine St, Los Angeles, CA 90028",Studio - 2 Bed,323-870-2146,"$2,015 - 5,330",sunset + vine
+61,"1759 Beloit Ave, Los Angeles, CA 90025",Studio - 1 Bed,844-856-6470,"$2,995 - 4,995",NMS 1759
+62,"3644-3658 Overland Ave, Los Angeles, CA 90034",Studio - 2 Bed,844-307-2073,"$2,145 - 4,310",The Roy
+63,"7077 Alvern St, Los Angeles, CA 90045",1-2 Bed,866-935-9714,"$1,965 - 4,330",The Heights
+64,"1120 W 6th St, Los Angeles, CA 90017",Studio - 3 Bed,844-329-8256,"$2,250 - 6,045",Sofia Los Angeles
+65,"1111 Wilshire Blvd, Los Angeles, CA 90017",Studio - 3 Bed,844-626-3488,"$2,145 - 5,340",1111 Wilshire
+66,"222 S Main St, Los Angeles, CA 90012",Studio - 3 Bed,844-424-4050,"$1,960 - 4,280",Stoa
+67,"700 W 9th St, Los Angeles, CA 90015",Studio - 3 Bed,805-221-8797,"$2,395 - 11,125",Alina
+68,"10700 Wilshire Blvd, Los Angeles, CA 90024",1-2 Bed,844-840-8937,"$5,995 - 13,995",Wilshire Victoria
+69,"417 S Kenmore Ave, Los Angeles, CA 90020",Studio,844-295-3625,"$1,650 - 2,400",Kenmore Commons
+70,"349 S La Fayette Park Pl, Los Angeles, CA 90057",1 Bed,844-409-2531,"$2,000",LP by CLG
+71,"888 Hilgard Ave, Los Angeles, CA 90024",1-2 Bed,424-320-3970,"$3,110 - 8,300",888 Hilgard Furnished Living
+72,"2867 Sunset Pl, Los Angeles, CA 90005",Studio - 2 Bed,844-258-4459,"$2,600 - 5,550",The KODO Furnished Living
+73,"710 N El Centro Ave, Los Angeles, CA 90038",2 Bed,844-599-1679,"$3,295 - 4,769",The LC by CLG
+74,"3100 Riverside Dr, Los Angeles, CA 90027",1-2 Bed,864-349-5996,"$1,985 - 2,715",eaves Los Feliz
+75,"236 S Los Angeles St, Los Angeles, CA 90012",Studio - 3 Bed,855-861-8271,"$2,620 - 4,653",AVA Little Tokyo
+76,"5535 Westlawn Ave, Los Angeles, CA 90066",1-3 Bed,855-625-9411,"$2,575 - 3,535",Avalon Playa Vista
+77,"4091 Redwood Ave, Los Angeles, CA 90066",1 Bed,844-779-1057,"$3,300",R3 Lofts by CLG
+78,"217 E 8th St, Los Angeles, CA 90014",Studio,213-514-8892,"$2,120",Garment Lofts
+79,"7928 Hollywood Blvd, Los Angeles, CA 90046",2 Bed,844-286-9953,"$4,250",The HW by CLG
+80,"888 S Olive St, Los Angeles, CA 90014",1-2 Bed,844-790-4921,"$5,170 - 6,150",LEVEL Furnished Living
+81,"756 S Broadway, Los Angeles, CA 90014",Studio - 2 Bed,424-244-3137,"$1,920 - 3,950",The Chapman Flats
+82,"1168 S Barrington Ave, Los Angeles, CA 90049",1-3 Bed,844-816-0742,"$4,199 - 5,999",The BW by CLG
+83,"1306 N Orange Dr, Los Angeles, CA 90028",2-3 Bed,424-296-1655,"$3,525 - 4,650",Orange 12
+84,"1001 S Olive St, Los Angeles, CA 90015",Studio - 2 Bed,844-462-7968,"$1,950 - 4,000",Oakwood - Olympic & Olive
+85,"369 Columbia Ave, Los Angeles, CA 90017",1 Bed,844-639-1618,"$1,645 - 1,720",Tuscani Villas
+86,"3640 Wilshire Blvd, Los Angeles, CA 90010",Studio - 2 Bed,844-816-2190,"$1,750 - 3,345",Luna
+87,"3060 W Olympic Blvd, Los Angeles, CA 90006",1-2 Bed,213-985-3002,"$2,200 - 3,160",30Sixty
+88,"535-547 S Kingsley Dr, Los Angeles, CA 90020",2 Bed,844-295-2270,"$2,990 - 3,595",Maya
+89,"2330 N Cahuenga Blvd, Los Angeles, CA 90068",1-2 Bed,855-346-0907,"$1,895 - 2,950",The Hillpointe Luxury Apartments
+90,"905 Wilcox Ave, Los Angeles, CA 90038",2 Bed,747-233-4550,"$3,695 - 3,995",905 Wilcox Avenue
+91,"6200 Hollywood Blvd, Los Angeles, CA 90028",Studio,844-674-4298,Call for Rent,El Centro Apartments & Bungalows
+92,"4136-4140 Grand View Blvd, Los Angeles, CA 90066",Studio - 1 Bed,844-206-8095,"$1,795 - 2,225",Grand View Apartments
+93,"1515 Wilshire Blvd, Los Angeles, CA 90017",Studio - 2 Bed,844-288-1270,"$2,100 - 3,150",Wilshire Valencia
+94,"770 S Grand Ave, Los Angeles, CA 90014",Studio - 3 Bed,888-860-7414,"$2,047 - 6,022",8th & Grand
+95,"801 S Olive St, Los Angeles, CA 90014",Studio - 3 Bed,888-860-9563,"$2,482 - 14,435",Atelier
+96,"8655 Belford Ave, Los Angeles, CA 90045",1-3 Bed,844-256-5962,"$1,940 - 4,572",Madrid
+97,"411 S Main St, Los Angeles, CA 90013",Studio,844-451-3752,Call for Rent,Hellman Building
+98,"1010 Wilshire Blvd, Los Angeles, CA 90017",Studio - 3 Bed,877-280-6446,"$3,119 - 9,431",TENTEN WILSHIRE - All Inclusive Living
+99,"327 N Boylston St, Los Angeles, CA 90012",Studio - 2 Bed,424-269-6177,"$2,045 - 3,690",EastView Apartments
+100,"1230 S Olive St, Los Angeles, CA 90015",Studio - 3 Bed,844-864-0368,"$2,080 - 6,250",WREN
+101,"453 S Kenmore Ave, Los Angeles, CA 90020",Studio - 2 Bed,949-264-8181,Call for Rent,The Rhys
+102,"422 S Lake St, Los Angeles, CA 90057",2 Bed,213-481-6179,"$2,425",422SOUTHLAKE
+103,"8500 Burton Way, Los Angeles, CA 90048",1-2 Bed,844-203-9686,"$6,000 - 40,000",8500 Burton
+104,"14000 Palawan Way, Marina del Rey, CA 90292",Studio - 3 Bed,844-756-0649,"$3,210 - 8,791",Wayfarer® Apartments + Marina
+105,"300 N Central Ave, Glendale, CA 91203",1-3 Bed,818-638-9694,"$2,995 - 4,350",Legendary Glendale
+106,"1600 Vine St, Hollywood, CA 90028",Studio - 3 Bed,877-521-8740,"$2,212 - 25,342",1600 VINE
+107,"4600 Via Marina, Marina del Rey, CA 90292",Studio - 3 Bed,866-705-6147,"$2,151 - 4,089",Mariners Village
+108,"4500 Via Marina, Marina Del Rey, CA 90292",Studio - 3 Bed,866-600-2635,"$3,025 - 4,200",The Tides At Marina Harbor
+109,"13900 Marquesas Way, Marina del Rey, CA 90292",Studio - 4 Bed,310-776-9054,"$2,917 - 10,000",Esprit Apartments
+110,"9901 Washington Blvd, Culver City, CA 90232",1-3 Bed,844-472-9845,"$3,162 - 5,100",Harlow Culver City
+111,"12760 W Millennium Dr, Playa Vista, CA 90094",Studio - 2 Bed,844-850-2169,"$3,057 - 13,961",Runway at Playa Vista
+112,"2200 Colorado Ave, Santa Monica, CA 90404",1-3 Bed,949-769-2483,"$3,072 - 20,784",AO Santa Monica
+113,"5440 Tujunga Ave, North Hollywood, CA 91601",1-3 Bed,818-471-4866,"$2,510 - 5,840",NoHo 14
+114,"11059 McCormick St, North Hollywood, CA 91601",Studio - 3 Bed,888-649-1675,"$1,920 - 4,095",Living at NoHo
+115,"4108 Del Rey Ave, Marina del Rey, CA 90292",1-3 Bed,844-354-4861,Call for Rent,Tribeca Urban
+116,"4735 Sepulveda Blvd, Sherman Oaks, CA 91403",1-2 Bed,844-511-8999,"$1,930 - 4,747",The Grand
+117,"4242 Via Marina, Marina del Rey, CA 90292",Studio - 3 Bed,844-449-8693,"$3,275 - 12,260",AMLI Marina Del Rey
+118,"6150 Canoga Ave, Woodland Hills, CA 91367",1-2 Bed,844-880-5605,"$1,900 - 5,812",The Pointe at Warner Center
+119,"321 N Orange St, Glendale, CA 91203",Studio - 2 Bed,818-334-4597,"$2,116 - 5,125",AMLI Lex on Orange
+120,"22219 Summit Vue Ln, Woodland Hills, CA 91367",2-3 Bed,818-935-5619,"$2,399 - 3,345",Summit at Warner Center
+121,"4157 Via Marina Via, Marina del Rey, CA 90292",1-2 Bed,855-879-6226,"$2,631 - 4,820",Marina 41
+122,"4111 Via Marina, Marina Del Rey, CA 90292",Studio - 2 Bed,855-298-5441,"$1,910 - 3,820",Pearl
+123,"6150 De Soto Ave, Woodland Hills, CA 91367",1-3 Bed,818-456-0388,"$1,916 - 3,516",Bella Vista At Warner Ridge
+124,"13603 Marina Pointe Dr, Marina Del Rey, CA 90292",Studio - 2 Bed,877-399-7511,"$2,128 - 5,295",The Westerly on Lincoln
+125,"3221 Carter Ave, Marina Del Rey, CA 90292",1-3 Bed,866-675-4123,"$2,695 - 8,421",Jefferson at Marina del Rey
+126,"4250 Glencoe Ave, Marina Del Rey, CA 90292",1-3 Bed,844-556-3292,"$2,619 - 6,808",Tierra del Rey
+127,"10601 Washington Blvd, Culver City, CA 90232",Studio - 2 Bed,844-896-6955,"$3,440 - 5,174",Cobalt
+128,"1714 N McCadden Pl, Hollywood, CA 90028",Studio - 2 Bed,323-472-5315,"$2,199 - 5,749",Alaya Hollywood
+129,"6250 Canoga Ave, Woodland Hills, CA 91367",1-3 Bed,424-652-5272,"$1,884 - 3,144",Triana Apartments
+130,"1737 Las Palmas Ave, Hollywood, CA 90028",Studio - 2 Bed,844-211-8474,"$2,175 - 5,995",The Line Lofts
+131,"546 W Colorado St, Glendale, CA 91204",Studio - 2 Bed,844-310-5642,"$2,119 - 5,364",Brio Apartment Homes and Villas
+132,"13900 Panay Way, Marina Del Rey, CA 90292",Studio - 3 Bed,844-301-0642,Call for Rent,Dolphin Marina Apartments
+133,"5700 Sepulveda Blvd, Sherman Oaks, CA 91411",1-2 Bed,747-208-0177,"$2,390 - 2,755",IMT 5700
+134,"12665 Village Ln, Playa Vista, CA 90094",1-2 Bed,844-851-4705,"$3,235 - 6,195",Villas at Playa Vista - Malibu
+135,"12411 Fielding Circle Dr, Playa Vista, CA 90094",1-2 Bed,424-500-8577,"$2,980 - 5,715",Villas at Playa Vista - Sausalito
+136,"12855 Runway Rd, Playa Vista, CA 90094",1-2 Bed,844-537-9207,"$3,660 - 7,925",Villas at Playa Vista - Montecito
+137,"9830 Reseda Blvd, Northridge, CA 91324",Studio - 2 Bed,747-202-9784,"$1,625 - 2,795",Candlewood North
+138,"5807 Topanga Canyon Blvd, Woodland Hills, CA 91367",1-3 Bed,844-283-8874,"$1,965 - 3,015",Warner Villa
+139,"13401 Riverside Dr, Sherman Oaks, CA 91423",1-3 Bed,818-287-6322,"$2,080 - 3,415",Chase Knolls
+140,"11622 Aviation Blvd, Inglewood, CA 90304",Studio - 2 Bed,858-291-1066,"$2,508 - 4,616",Bell South Bay
+141,"21021 Erwin St, Woodland Hills, CA 91367",1-3 Bed,844-608-2680,"$2,135 - 5,670",Motif
+142,"400 N Central Ave, Glendale, CA 91203",Studio - 2 Bed,877-671-2607,"$2,235 - 3,550",Next on Lex
+143,"20310 W Sorrento Ln, Porter Ranch, CA 91326",1-3 Bed,818-935-5611,"$2,170 - 6,894",Sonoma at Porter Ranch
+144,"11415 Porter Ranch Dr, Porter Ranch, CA 91326",Studio - 2 Bed,818-581-2593,"$1,779 - 2,416",Tesoro at Porter Ranch
+145,"22100 Erwin St, Woodland Hills, CA 91367",Studio - 3 Bed,818-855-7521,"$1,821 - 3,199",The Reserve at Warner Center
+146,"220 San Vicente Blvd, Santa Monica, CA 90402",1 Bed,844-721-1940,"$3,850 - 4,895",San Vicente Tower
+147,"4201 Via Marina, Marina del Rey, CA 90292",1-2 Bed,310-776-9552,"$3,095 - 4,940",Shores
+148,"7121 Woodley Ave, Van Nuys, CA 91406",1-2 Bed,844-478-8407,"$2,100 - 3,490",Woodley Sara Apartments
+149,"1500 W Pacific Coast Hwy, Wilmington, CA 90744",1-3 Bed,844-287-1240,"$2,055 - 3,980",Solimar Luxury Villas
+150,"4170 Admiralty Way, Marina Del Rey, CA 90292",1-2 Bed,844-277-2986,"$3,975 - 5,990",The Admiralty
+151,"13999 Marquesas Way, Marina del Rey, CA 90292",1-2 Bed,818-465-9636,"$2,695 - 4,700",Villa del Mar Apartments & Marina
+152,"13900 Tahiti Way, Marina del Rey, CA 90292",1-3 Bed,844-704-6079,"$4,500 - 6,800",Waves MDR
+153,"10979 Bluffside Dr, Studio City, CA 91604",Studio - 3 Bed,855-690-3816,"$1,831 - 3,381",AVA Studio City
+154,"3600 Barham Blvd, Hollywood, CA 90068",Studio - 2 Bed,844-365-3378,"$1,665 - 3,200",AVA Toluca Hills
+155,"2000 Main St, Santa Monica, CA 90405",Studio - 3 Bed,844-289-6530,"$3,565 - 5,758",Avalon Santa Monica on Main
+156,"7316 Santa Monica Blvd, West Hollywood, CA 90046",Studio - 3 Bed,844-287-7204,"$2,955 - 5,885",Avalon West Hollywood
+157,"20544 Ventura Blvd, Woodland Hills, CA 91364",1-2 Bed,844-465-3030,"$1,935 - 2,545",Avalon Woodland Hills
+158,"21050 Vanowen St, Woodland Hills, CA 91303",1-3 Bed,855-384-0987,"$2,020 - 3,040",Avalon Warner Place
+159,"22122 Victory Blvd, Woodland Hills, CA 91367",Studio - 2 Bed,877-271-4566,"$1,540 - 2,470",eaves Woodland Hills
+160,"14015 W Tahiti Way, Marina Del Rey, CA 90292",1-2 Bed,310-439-9329,"$2,870 - 4,560",Avalon Marina Bay
+161,"401 N Pass Ave, Burbank, CA 91505",Studio - 3 Bed,877-594-1148,"$1,760 - 3,025",AVA Burbank
+162,"5727 Canoga Ave, Woodland Hills, CA 91367",1-3 Bed,844-310-6706,"$1,829 - 2,250",eaves Warner Center
+163,"10945 Bluffside Dr, Studio City, CA 91604",1-2 Bed,855-718-7654,"$2,493 - 3,445",Avalon Studio City
+164,"6530 Sepulveda Blvd, Van Nuys, CA 91411",1-2 Bed,818-927-6043,"$1,875 - 2,845",SkyLA
+165,"3838 Dunn Dr, Culver City, CA 90232",2 Bed,844-233-2410,"$4,599",3838 by CLG
+166,"124 W Colorado St, Glendale, CA 91204",1-3 Bed,855-412-3660,"$2,995 - 5,295",Verdara Glendale
+167,"1425 N Crescent Heights, West Hollywood, CA 90046",1-2 Bed,844-210-9135,"$4,250 - 8,250",Element WeHo
+168,"8526 International Ave, Canoga Park, CA 91304",2-3 Bed,844-781-9172,"$1,850 - 2,500",International Village Apartments
+169,"1480 Vine St, Los Angeles, CA 90028",1-2 Bed,844-406-4110,"$3,600 - 12,500",Instrata Sunset Vine Tower
+170,"333 Belmont Ave, Los Angeles, CA 90026",Studio - 3 Bed,844-294-1367,"$1,975 - 4,700",333B -ECHO PARK
+171,"930 Figueroa Ter, Los Angeles, CA 90012",1-2 Bed,844-219-1548,"$1,895 - 2,650",Skyline Terrace
+172,"612 S Flower St, Los Angeles, CA 90017",Studio - 2 Bed,844-815-3697,"$2,013 - 3,557",Pegasus
+173,"680 S Berendo St, Los Angeles, CA 90005",Studio - 2 Bed,844-403-2805,"$1,923 - 3,406",Radius Koreatown
+174,"5211 Pacific Concourse Dr, Los Angeles, CA 90045",Studio - 3 Bed,866-830-4369,"$2,208 - 4,396",Pacific Place
+175,"138 N Beaudry Ave, Los Angeles, CA 90012",Studio - 3 Bed,877-522-8339,"$1,824 - 4,210",Canvas LA
+176,"1000 S Hope St, Los Angeles, CA 90015",Studio - 2 Bed,866-872-2616,"$2,137 - 5,500",Packard Lofts
+177,"900 N Broadway, Los Angeles, CA 90012",Studio - 2 Bed,844-265-9154,"$1,743 - 6,325",Blossom Plaza
+178,"635 S Hobart Blvd, Los Angeles, CA 90005",Studio - 2 Bed,877-514-9054,"$2,143 - 4,821",Avana on Wilshire
+179,"600 S Curson Ave, Los Angeles, CA 90036",1-2 Bed,844-289-5682,"$2,471 - 3,400",Museum Terrace
+180,"950 S Flower St, Los Angeles, CA 90015",Studio - 2 Bed,855-543-9014,"$1,708 - 4,766",The Met
+181,"417 S Hill St, Los Angeles, CA 90013",Studio - 2 Bed,844-698-1615,"$1,798 - 7,425",Metro 417
+182,"467 Arnaz Dr, Los Angeles, CA 90048",1-2 Bed,844-495-0188,"$2,593 - 4,295",IMT Beverly Arnaz
+183,"5724 Hollywood Blvd, Los Angeles, CA 90028",1-2 Bed,844-266-2940,"$2,150 - 2,995",Hollywood View Towers
+184,"4247 Eagle Rock Blvd, Los Angeles, CA 90065",1-3 Bed,844-819-8082,Call for Rent,The Perch
+185,"1950 Tamarind Ave, Los Angeles, CA 90068",1-2 Bed,844-887-8963,"$2,395 - 3,280",Tamarind Terrace
+186,"10833 Wilshire Blvd, Los Angeles, CA 90024",1-3 Bed,310-425-3967,"$3,965 - 10,732",Legacy at Westwood Apartments
+187,"160 S Virgil Ave, Los Angeles, CA 90004",Studio - 2 Bed,866-460-6358,"$1,827 - 2,149",Aspen Apartments
+188,"7230 Franklin Ave, Los Angeles, CA 90046",1-2 Bed,844-289-9607,"$2,295 - 2,795",Franklin Plaza
+189,"5837 W Sunset Blvd, Los Angeles, CA 90028",Studio - 2 Bed,877-892-4033,"$2,260 - 3,465",The MetWest
+190,"905 E 2nd St, Los Angeles, CA 90012",Studio - 2 Bed,844-445-8702,"$2,076 - 7,033",The Garey Building
+191,"939 S Hill St, Los Angeles, CA 90015",Studio - 2 Bed,877-253-6104,"$2,305 - 5,185",South Park by Windsor
+192,"445 N Rossmore Ave, Los Angeles, CA 90004",1-2 Bed,866-965-2619,"$2,975 - 5,410",Windsor at Hancock Park
+193,"1000 S Grand Ave, Los Angeles, CA 90015",Studio - 2 Bed,844-855-8634,"$2,245 - 5,325",1000 Grand by Windsor
+194,"501 W Olympic Blvd, Los Angeles, CA 90015",Studio - 2 Bed,213-599-7233,"$2,185 - 6,815",Renaissance Tower
+195,"209 S Westmoreland Ave, Los Angeles, CA 90004",Studio - 2 Bed,213-985-1324,"$1,571 - 5,773",The Chadwick
+196,"3425 Motor Ave, Los Angeles, CA 90034",Studio - 1 Bed,323-284-7345,"$2,350 - 2,850",M Lofts
+197,"1333 N Curson Ave, Los Angeles, CA 90046",2-3 Bed,323-606-8872,"$3,100 - 4,595",La Fontaine
+198,"1249 S Grand Ave, Los Angeles, CA 90015",Studio - 2 Bed,844-503-8885,"$1,800 - 2,350",E on Grand
+199,"8500 W Sunset Blvd, Los Angeles, CA 90069",1-2 Bed,844-891-0428,"$5,700 - 12,500",The Apartment Residences at AKA
+200,"801 N Fairfax Ave, Los Angeles, CA 90046",1-2 Bed,844-802-9799,"$2,300 - 2,795",801 North
+201,"3201 Overland Ave, Los Angeles, CA 90034",Studio - 2 Bed,844-495-9186,"$2,200 - 3,250",Woodcliff
+202,"1558 Gordon St, Los Angeles, CA 90028",1-3 Bed,877-700-9205,"$2,415 - 4,100",Vues on Gordon
+203,"130 S Sepulveda Blvd, Los Angeles, CA 90049",1-2 Bed,844-811-5197,"$3,290 - 5,780",Villa Bel Air
+204,"5700 W 6th St, Los Angeles, CA 90036",1-22 Bed,323-302-9189,"$2,397 - 4,639",Masselin Park West
+205,"3324 Castle Heights Ave, Los Angeles, CA 90034",Studio - 2 Bed,888-554-4667,"$2,180 - 3,720",Waterstone at Metro
+206,"10983-10983 Wellworth Ave, Los Angeles, CA 90024",1-2 Bed,844-356-1728,"$3,077 - 4,044",The Plaza Apartments
+207,"11950 Idaho Ave, Los Angeles, CA 90025",1-3 Bed,844-824-5104,"$3,840 - 7,160",The Adler Apartments
+208,"4928 W Martin Luther King Jr Blvd, Los Angeles, CA 90016",1-2 Bed,323-825-4611,"$1,542 - 2,514",Gloria Homes Apartments
+209,"7513 Fountain Ave, Los Angeles, CA 90046",Studio - 2 Bed,844-381-7808,"$2,100 - 3,200",Villa Elizabeth
+210,"10599 Wilshire Blvd, Los Angeles, CA 90024",1-2 Bed,844-538-7419,"$4,520 - 9,000",Wilshire Margot
+211,"2901 S Sepulveda Blvd, Los Angeles, CA 90064",Studio - 1 Bed,844-450-8537,"$1,995 - 2,200",Westwood Villa
+212,"1616 N La Brea Ave, Los Angeles, CA 90028",Studio - 1 Bed,844-652-8075,"$2,900",The Lofts on La Brea
+213,"334 S Main St, Los Angeles, CA 90013",Studio - 1 Bed,877-383-6370,"$2,125 - 2,696",The Medallion
+214,"5959 Franklin Ave, Los Angeles, CA 90028",Studio - 2 Bed,844-528-6530,"$4,700 - 9,210",The Villa Carlotta
+215,"3701 Overland Ave, Los Angeles, CA 90034",Studio - 2 Bed,888-655-5276,"$2,000 - 3,350",CentrePointe Apartments
+216,"11740 Wilshire Blvd, Los Angeles, CA 90025",Studio - 2 Bed,844-790-0074,"$1,920 - 4,995",Barrington Plaza
+217,"555 S Barrington Ave, Los Angeles, CA 90049",1-3 Bed,844-207-0095,"$3,195 - 6,700",555 Barrington
+218,"1411 N Highland Ave, Los Angeles, CA 90028",Studio - 1 Bed,844-701-2013,"$2,318 - 3,200",The Highland
+219,"851-853 N Hayworth Ave, Los Angeles, CA 90046",1 Bed,844-348-8528,Call for Rent,853 N Hayworth
+220,"3700-3782 S Figueroa St, Los Angeles, CA 90007",3 Bed,844-462-5737,"$1,940 - 1,970",Tuscany Apartments FURNISHED LIVING
+221,"1157 S Bundy Dr, Los Angeles, CA 90049",2 Bed,844-846-2310,"$5,200",The Tides Brentwood
+222,"8500 W Sunset Blvd, Los Angeles, CA 90069",1-2 Bed,844-201-8720,"$8,100 - 20,925",AKA West Hollywood
+223,"3075 Wilshire Blvd, Los Angeles, CA 90010",Studio - 2 Bed,213-674-4549,"$1,900 - 2,900",Westmore on Wilshire
+224,"11715 Bellagio Rd, Los Angeles, CA 90049",2 Bed,424-610-4562,"$6,000",Empire at Bellagio
+225,"6204-6216 La Mirada Ave, Los Angeles, CA 90038",Studio,844-246-6836,"$1,530",Hollywood Off-Vine
+226,"241 N Lake St, Los Angeles, CA 90026",Studio - 1 Bed,844-366-6271,"$1,710 - 1,990",The Lake Apartment
+227,"6233 S La Brea Ln, Los Angeles, CA 90056",1-2 Bed,424-240-7415,"$1,553 - 2,053",Ladera Townhouse
+228,"401 S La Fayette Park Pl, Los Angeles, CA 90057",2 Bed,844-897-6841,"$2,250 - 2,375",Plaza at Lafayette Luxury Apartments
+229,"430 S Broadway, Los Angeles, CA 90013",Studio - 2 Bed,844-278-4293,"$1,600 - 2,500",The Broadway Lofts
+230,"6750 Whitsett Ave, North Hollywood, CA 91606",1-2 Bed,855-328-8592,"$1,279 - 2,200",The Piedmont Senior Apartments
+231,"375 N La Cienega Blvd, West Hollywood, CA 90048",1 Bed,844-832-3150,"$2,913 - 3,795",La Cienega Weho
+232,"11405 Chandler Blvd, North Hollywood, CA 91601",Studio - 2 Bed,747-202-2628,"$2,095 - 3,900",NvE
+233,"21200 Kittridge St, Woodland Hills, CA 91303",1-3 Bed,855-887-8857,"$1,903 - 3,777",AMLI Warner Center
+234,"255 W 5th St, San Pedro, CA 90731",1-3 Bed,310-341-4172,"$2,005 - 4,825",The Vue
+235,"4055 Redwood Ave, Marina del Rey, CA 90066",1-2 Bed,310-907-5699,"$3,619 - 10,091",Forty55 Lofts
+236,"435 W Los Feliz Rd, Glendale, CA 91204",1-3 Bed,855-559-8509,"$2,415 - 4,405",The Griffith
+237,"12000 Riverside Dr, Valley Village, CA 91607",1-2 Bed,844-835-8732,"$2,935 - 3,385",Emerson Valley Village
+238,"13900 Fiji Way, Marina del Rey, CA 90292",Studio - 3 Bed,844-277-1819,"$3,613 - 5,398",Breakwater at Marina del Rey
+239,"5031 Fair Ave, North Hollywood, CA 91601",Studio - 3 Bed,844-264-8437,"$2,357 - 4,223",The Hesby
+240,"100-118 S Maryland Ave, Glendale, CA 91205",Studio - 2 Bed,877-838-6692,"$1,930 - 3,131",Eleve Lofts and Skydeck
+241,"5225 Blakeslee Ave, North Hollywood, CA 91601",1-2 Bed,844-617-3526,"$2,284 - 2,842",Academy Village
+242,"1619 N La Brea Ave, Hollywood, CA 90028",Studio - 3 Bed,844-785-9655,"$2,195 - 11,697",The Avenue Hollywood
+243,"8770 Washington Blvd, Culver City, CA 90232",Studio - 3 Bed,866-991-5976,"$2,966 - 7,115",Access - Culver City
+244,"7027 Lanewood Ave, Hollywood, CA 90028",1-2 Bed,866-684-4719,"$2,167 - 2,882",Lanewood Pines
+245,"13953 Panay Way, Marina Del Rey, CA 90292",1-2 Bed,855-599-0149,"$2,657 - 4,242",Capri Apartments
+246,"1050 Frederick St, Venice, CA 90291",1-3 Bed,888-670-8958,"$2,808 - 5,239",Lincoln Place Apartment Homes
+247,"16601 Foothill Blvd, Sylmar, CA 91342",1-2 Bed,866-396-4250,"$1,915 - 2,637",Rockwood at The Cascades
+248,"2905 S Cabrillo Ave, San Pedro, CA 90731",1-2 Bed,844-451-4799,"$1,850 - 2,195",Marine View Apartments
+249,"18641 Saticoy St, Reseda, CA 91335",2-3 Bed,844-320-7397,"$2,325 - 3,020",Villa Grande Townhomes
+250,"21535 Roscoe Blvd, Canoga Park, CA 91304",2-3 Bed,844-284-6738,"$2,335 - 2,745",The Verandas
+251,"1625 W Pacific Coast Hwy, Wilmington, CA 90744",1-3 Bed,844-805-2658,"$2,549 - 4,670",Portofino Townhomes
+252,"6300 Variel Ave, Woodland Hills, CA 91367",1-2 Bed,888-880-7695,"$1,999 - 3,568",Carabella at Warner Center Apartments
+253,"9400 Corbin Ave, Northridge, CA 91324",Studio - 2 Bed,818-514-8980,"$1,990 - 3,840",Terrena Apartment Homes
+254,"9901 Lurline Ave, Chatsworth, CA 91311",Studio - 2 Bed,866-398-4985,"$1,602 - 2,847",Waterstone Apartments
+255,"15454 Sherman Way, Van Nuys, CA 91406",Studio - 2 Bed,818-582-8249,"$1,495 - 3,752",San Regis Apartments
+256,"6200 Franklin Ave, Hollywood, CA 90028",Studio - 2 Bed,323-472-9165,"$2,195 - 3,755",Hollywood Tower
+257,"11179 Weddington St, North Hollywood, CA 91601",Studio - 1 Bed,844-841-9710,"$2,070 - 4,655",Lofts at NoHo Commons
+258,"13488 W Maxella Ave, Marina Del Rey, CA 90292",Studio - 3 Bed,310-220-0721,"$2,840 - 7,596",Stella
+259,"6701-6733 Eton Ave, Woodland Hills, CA 91303",1-2 Bed,818-928-7048,"$1,860 - 4,686",Alta Warner
+260,"7141-7155 Santa Monica Blvd, West Hollywood, CA 90046",Studio - 2 Bed,877-485-5229,"$2,770 - 7,266",Domain WeHo
+261,"10201 Lindley Ave, Northridge, CA 91325",Studio - 2 Bed,844-214-7600,"$1,358 - 3,095",Grand Apartments on Lindley
+262,"14955 Saticoy St, Van Nuys, CA 91405",1-2 Bed,888-539-9407,"$1,551 - 2,088",Saticoy Gardens
+263,"3120 Hollypark Dr, Inglewood, CA 90305",Studio - 2 Bed,844-700-1813,"$1,473 - 2,510",Hollypark Knolls
+264,"11047 Otsego St, North Hollywood, CA 91601",1-3 Bed,818-824-6939,"$1,873 - 3,395",Windfaire Apartments
+265,"8525 Tobias Ave, Panorama City, CA 91402",Studio - 2 Bed,888-584-4459,"$1,050 - 1,850",Regency Premier
+266,"20918 Gresham St, Canoga Park, CA 91304",1-3 Bed,844-712-8031,"$2,250 - 2,890",Terra Apartments
+267,"10620 Whipple St, Toluca Lake, CA 91602",2-3 Bed,844-810-9150,"$2,895",La Providencia
+268,"16710 Ventura Blvd, Encino, CA 91436",Studio - 2 Bed,747-900-8040,"$2,595 - 3,350",Legado Encino
+269,"20455 Sorrento Ln, Porter Ranch, CA 91326",1-2 Bed,818-492-4471,"$1,835 - 1,855",Ventana at Porter Ranch
+270,"316 N Maple St, Burbank, CA 91505",Studio - 2 Bed,844-766-9613,"$2,263 - 4,172",The Woods at Toluca Lake
+271,"1724 N Highland Ave, Hollywood, CA 90028",1-2 Bed,855-227-7048,"$2,375 - 3,699",1724 Highland
+272,"1311 W Sepulveda Blvd, Torrance, CA 90501",2-3 Bed,310-975-3828,"$2,550 - 3,575",Seacrest Homes Apartments
+273,"10139 Woodley Ave, North Hills, CA 91343",1-2 Bed,877-385-0448,"$1,850 - 2,800",Woodley Plaza
+274,"22035 Burbank Blvd, Woodland Hills, CA 91367",1-2 Bed,844-266-4861,"$1,795 - 2,195",Woodland House Apartments
+275,"5555 Bonner Ave, North Hollywood, CA 91601",2 Bed,877-539-7545,"$2,850 - 3,200",NOHO 55 Apartments
+276,"11262 Ostego St, North Hollywood, CA 91601",1-3 Bed,323-746-2471,"$2,295 - 3,750",Otsego Noho Apartments
+277,"2700-2800 Neilson Way, Santa Monica, CA 90405",1-2 Bed,424-229-9231,"$3,995 - 9,885",The Shores
+278,"6565-7225 Crescent Park W, Playa Vista, CA 90094",1-3 Bed,844-235-7962,"$2,825 - 5,450",The Ventana Luxury Rentals
+279,"889 Americana Way, Glendale, CA 91210",Studio - 2 Bed,866-477-5085,"$2,650 - 4,550",The Americana at Brand Luxury Apartments
+280,"5500 Klump Ave, North Hollywood, CA 91601",Studio - 2 Bed,844-827-3356,"$1,850 - 2,827",NOHO 5500
+281,"1775 N Orange Dr, Hollywood, CA 90028",Studio - 1 Bed,844-257-1228,"$2,150 - 3,250",The Nirvana
+282,"19401 Parthenia St, Northridge, CA 91324",Studio - 2 Bed,844-438-4601,"$2,077 - 3,255",Alder
+283,"155 N Crescent Dr, Beverly Hills, CA 90210",1-2 Bed,424-239-6890,"$11,850 - 29,250",AKA Beverly Hills
+284,"8435 Orion Ave, North Hills, CA 91343",3 Bed,844-863-9301,"$2,295 - 2,795",Orion Luxury
+285,"5710 E Crescent Park Park E, Los Angeles, CA 90094",1-2 Bed,888-608-9958,"$3,070 - 9,675",Crescent Park at Playa Vista
+286,"7400 Hollywood Blvd, Los Angeles, CA 90046",Studio - 2 Bed,855-862-1782,"$1,795 - 2,700",Hollywood Place
+287,"3636 S Sepulveda Blvd, Los Angeles, CA 90034",Studio - 2 Bed,855-874-5165,"$1,830 - 3,470",Westside Terrace Apartments
+288,"1660 Wilton Pl, Los Angeles, CA 90028",Studio - 2 Bed,855-203-8870,"$1,980 - 3,515",Media Towers I Apts
+289,"3205 Los Feliz Blvd, Los Angeles, CA 90039",Studio - 1 Bed,888-573-8504,"$1,483 - 4,815",Rancho Los Feliz
+290,"5351 San Vicente Blvd, Los Angeles, CA 90019",Studio - 1 Bed,866-959-2918,"$1,662 - 2,992",Villa Vicente
+291,"11400 Rochester Ave, Los Angeles, CA 90025",Studio - 2 Bed,866-492-0167,"$2,327 - 3,339",West Park Village
+292,"7200 Franklin Ave, Los Angeles, CA 90046",Studio - 2 Bed,866-837-7747,"$2,219 - 3,031",Franklin Regency Apts
+293,"535 Gayley Ave, Los Angeles, CA 90024",Studio - 1 Bed,844-787-2700,"$2,190 - 3,130",Ariel Court Apts
+294,"5520 Wilshire Blvd, Los Angeles, CA 90036",Studio - 2 Bed,844-799-1903,"$2,573 - 15,848",Desmond at Wilshire
+295,"12435 W Jefferson Blvd, Los Angeles, CA 90066",Studio - 2 Bed,844-406-4111,"$2,025 - 2,425",Club Marina
+296,"101 Bridewell St, Los Angeles, CA 90042",Studio - 2 Bed,866-930-8289,"$1,545 - 2,050",Pasadena Park Place
+297,"7270 Franklin Ave, Los Angeles, CA 90046",Studio - 2 Bed,844-274-2761,"$1,710 - 2,760",Savoy West Apartments
+298,"716-718 S Los Angeles St, Los Angeles, CA 90014",Studio - 2 Bed,844-793-4336,"$1,950 - 3,219",Santee Court
+299,"900 S Irolo St, Los Angeles, CA 90006",Studio - 2 Bed,844-674-5176,"$1,635 - 2,121",Windsor Court
+300,"914 S Wilton Pl, Los Angeles, CA 90019",Studio - 1 Bed,844-833-1508,"$1,626 - 1,772",Regency Palm Court
+301,"5200 Wilshire Blvd, Los Angeles, CA 90036",Studio - 2 Bed,888-565-4540,"$2,120 - 5,692",Wilshire La Brea
+302,"690 S Catalina St, Los Angeles, CA 90005",Studio - 2 Bed,844-801-4355,"$2,599 - 2,724",Park Catalina
+303,"616 Masselin Ave, Los Angeles, CA 90036",Studio - 2 Bed,844-800-0936,"$2,324 - 2,886",Tiffany Court
+304,"810 S Flower St, Los Angeles, CA 90017",Studio - 2 Bed,844-294-5675,"$2,048 - 3,262",Gas Company Lofts
+305,"733 N Kings Rd, Los Angeles, CA 90069",Studio - 2 Bed,844-436-5108,"$1,957 - 3,071",Kings Road
+306,"610 S Main St, Los Angeles, CA 90014",Studio,844-817-1880,"$1,785 - 3,282",PE Lofts
+307,"400 S Detroit St, Los Angeles, CA 90036",Studio - 2 Bed,844-323-4550,"$2,031 - 2,966",Essex Properties at Miracle Mile
+308,"1360-1500 S Figueroa St, Los Angeles, CA 90015",Studio - 2 Bed,844-323-2364,"$1,783 - 3,593",Avant
+309,"1304 W 2nd St, Los Angeles, CA 90026",Studio - 3 Bed,844-331-0655,"$1,920 - 2,700",Belmont Station
+310,"5700 W Centinela Ave, Los Angeles, CA 90045",1-2 Bed,844-371-1325,"$2,046 - 2,970",Alessio
+311,"5600 Wilshire Blvd, Los Angeles, CA 90036",Studio - 2 Bed,844-802-8112,"$2,221 - 3,451",5600 Wilshire
+312,"333 S Catalina St, Los Angeles, CA 90020",1-2 Bed,844-807-4845,"$1,798 - 2,551",Catalina Gardens
+313,"234 S Figueroa St, Los Angeles, CA 90012",Studio - 2 Bed,844-828-6452,"$1,999 - 3,678",Bunker Hill Towers
+314,"801 S Hope St, Los Angeles, CA 90017",1-3 Bed,213-599-7247,"$2,678 - 6,148",8th and Hope
+315,"639 N Broadway, Los Angeles, CA 90012",Studio - 2 Bed,888-613-1353,"$2,038 - 2,344",Jia
+316,"1050 Wilshire Blvd, Los Angeles, CA 90017",1-3 Bed,844-625-6316,"$2,036 - 3,718",Glo
+317,"2245 S Beverly Glen Blvd, Los Angeles, CA 90064",Studio - 2 Bed,844-223-3800,"$3,131 - 3,471",Westside Villas
+318,"888 N Alameda St, Los Angeles, CA 90012",Studio - 2 Bed,855-412-2780,"$2,269 - 2,913",Mozaic at Union Station
+319,"918 S Oxford Ave, Los Angeles, CA 90006",1-2 Bed,888-909-9148,"$2,032 - 2,851",Versailles Koreatown
+320,"864 S New Hampshire, Los Angeles, CA 90005",2 Bed,844-214-3578,"$2,195 - 2,395",New Hampshire Terrace
+321,"411 S Virgil Ave, Los Angeles, CA 90020",Studio - 2 Bed,844-264-8546,"$1,850 - 2,584",Virgil Square
+322,"1710 N Fuller Ave, Los Angeles, CA 90046",Studio - 2 Bed,844-512-2779,"$1,886 - 3,076",Vantage Hollywood
+323,"1765 N Sycamore Ave, Los Angeles, CA 90028",Studio,844-367-7180,"$1,600",The Westbury
+324,"10401 Wilshire Blvd, Los Angeles, CA 90024",Studio - 2 Bed,844-640-8911,"$2,620 - 3,720",10401 Wilshire Building
+325,"1420 Ambassador St, Los Angeles, CA 90035",1-2 Bed,323-406-7064,"$2,826 - 7,944",HillCreste Apartments
+326,"10125 Palms Blvd, Los Angeles, CA 90034",2-3 Bed,844-280-7897,"$2,995",Palms Court
+327,"11650 National Blvd, Los Angeles, CA 90064",Studio - 2 Bed,424-442-1742,Call for Rent,National Apartments
+328,"3665 Hughes Ave, Los Angeles, CA 90034",1-2 Bed,844-209-7328,Call for Rent,Hughes Regency
+329,"1207 Miramar St, Los Angeles, CA 90026",Studio - 1 Bed,844-234-9891,"$1,514 - 2,287",City View Apartments
+330,"7275 Franklin Ave, Los Angeles, CA 90046",1-2 Bed,323-472-9452,"$2,010",La Vista Terrace
+331,"7280 Hillside Ave, Los Angeles, CA 90046",1-2 Bed,844-321-0381,Call for Rent,Hillside View
+332,"300 S Santa Fe Ave, Los Angeles, CA 90013",Studio - 2 Bed,888-350-7313,"$1,907 - 5,701",One Santa Fe Residential
+333,"1050 S Flower St, Los Angeles, CA 90015",Studio - 2 Bed,213-455-5967,"$2,164 - 5,677",Met Lofts
+334,"685 S New Hampshire Ave, Los Angeles, CA 90005",Studio - 2 Bed,844-679-0708,"$1,884 - 4,011",Berkshire K2LA
+335,"420 S Westlake Ave, Los Angeles, CA 90057",Studio - 1 Bed,844-653-3050,Call for Rent,Regina Apartments
+336,"117 S Avenue 64, Los Angeles, CA 90042",1-2 Bed,844-851-2365,"$1,699 - 2,250",Avenue 64 Apartments
+337,"10705-10725 Rose Ave, Los Angeles, CA 90034",2 Bed,844-660-6931,"$2,755 - 2,975",Pacific Rose Apartments
+338,"2424 Wilshire Blvd, Los Angeles, CA 90057",Studio,844-521-0819,"$1,625 - 1,715",Park Wilshire
+339,"2619 Wilshire Blvd, Los Angeles, CA 90057",Studio - 2 Bed,657-622-0563,"$1,415 - 2,285",Wilshire Royale
+340,"400 S Main St, Los Angeles, CA 90013",Studio,213-908-1894,"$2,205 - 3,370",San Fernando Building Lofts
+341,"121 E 6th St, Los Angeles, CA 90014",Studio - 1 Bed,844-211-4516,"$1,730 - 5,770",Santa Fe Lofts
+342,"816-818 S Grand Ave, Los Angeles, CA 90017",1-3 Bed,844-823-2465,"$2,365 - 4,155",South Park Lofts
+343,"1425 N Alta Vista Blvd, Los Angeles, CA 90046",Studio - 2 Bed,855-463-6101,"$2,210 - 3,045",Vue Hollywood
+344,"3316 W 73rd St, Los Angeles, CA 90043",Studio - 1 Bed,323-568-1217,"$1,070 - 1,585",Crenshaw Terrace
+345,"4757-4811 W Slauson Ave, Los Angeles, CA 90056",1-2 Bed,888-757-0687,"$1,620 - 2,535",Ladera Apts
+346,"1327-1329 S Crenshaw Blvd, Los Angeles, CA 90019",2-3 Bed,888-309-2949,"$2,020 - 2,605",Crenshaw Townhouse
+347,"870 Hilgard Ave, Los Angeles, CA 90024",1-2 Bed,844-274-9513,"$3,095 - 4,495",Hilgard Homes
+348,"8501 S Sepulveda Blvd, Los Angeles, CA 90045",Studio - 2 Bed,844-448-4514,"$2,295 - 2,495",Sepulveda West Apartments
+349,"7430 Arizona Ave, Los Angeles, CA 90045",2-3 Bed,844-205-0921,"$3,650 - 4,500",Villas at Kentwood
+350,"1811-1825 Morton Ave, Los Angeles, CA 90026",1-3 Bed,844-508-6569,"$2,675",Morton Gardens Apartments
+351,"11024 Strathmore Dr, Los Angeles, CA 90024",2-3 Bed,424-442-1949,"$6,123 - 8,750",11024 Strathmore Dr.
+352,"1836 Parnell Ave, Los Angeles, CA 90025",2 Bed,805-328-6837,"$3,575 - 3,675",1836 Parnell Avenue
+353,"1122 Gayley Ave, Los Angeles, CA 90024",Studio - 2 Bed,844-468-3462,"$3,595 - 5,695",Gayley & Lindbrook
+354,"6615-6621 W 86th Pl, Los Angeles, CA 90045",Studio - 2 Bed,844-324-3796,"$2,895",Westchester Apartments
+355,"8660 Burton Way, Los Angeles, CA 90048",Studio - 1 Bed,844-898-3203,"$1,775 - 1,895",Burton Square
+356,"11681 Darlington Ave, Los Angeles, CA 90049",2 Bed,844-859-0298,"$3,950",Darlington Apartments
+357,"3016 Waverly Dr, Los Angeles, CA 90039",Studio - 1 Bed,844-883-8763,Call for Rent,Waverly
+358,"3420 S Sepulveda Blvd, Los Angeles, CA 90034",1-2 Bed,844-356-1823,"$2,560 - 2,750",Palm Royale Apartments
+359,"1033 Hilgard Ave, Los Angeles, CA 90024",1-2 Bed,844-330-3833,"$3,600 - 4,000",Westwood Village Furnished Apartments
+360,"915 N La Brea Ave, Los Angeles, CA 90038",Studio - 3 Bed,844-329-8255,"$2,520 - 5,240",Angelene
+361,"8665 Burton Way, Los Angeles, CA 90048",Studio - 2 Bed,844-416-6143,"$2,670 - 7,900",Burton Way
+362,"12600 Braddock Dr, Los Angeles, CA 90066",1-2 Bed,323-776-3972,"$2,166 - 2,943",Casa De Marina Apartments
+363,"7223 Willoughby Ave, Los Angeles, CA 90046",1 Bed,844-808-6928,"$2,195",Willoughby Apartments
+364,"412 S Lake St, Los Angeles, CA 90057",Studio,323-330-4374,"$1,550",The Eleanor Apartments
+365,"Los Angeles, CA 90038",1 Bed,844-834-6144,"$2,795 - 2,895",5812 Virginia Ave
+366,"840 Hobart Blvd, Los Angeles, CA 90005",1 Bed,844-265-9958,"$1,425",The Wendover Apartments
+367,"1746 N Orange Dr, Los Angeles, CA 90028",Studio - 2 Bed,844-430-3283,"$1,730 - 2,615",The Madison Apartments
+368,"6711 Yucca St, Los Angeles, CA 90028",Studio,747-208-7823,"$1,500",Hollywood Pointe Apartments
+369,"835 S Wooster St, Los Angeles, CA 90035",Studio - 1 Bed,844-580-9852,"$2,150",Wooster
+370,"411 W 5th St, Los Angeles, CA 90013",Studio,844-229-3693,"$2,278",Title Guarantee Lofts
+371,"345 S Cloverdale Ave, Los Angeles, CA 90036",Studio - 2 Bed,844-788-5708,"$1,850 - 2,850",345 Cloverdale
+372,"1647 W Temple St, Los Angeles, CA 90026",2 Bed,424-363-6601,"$3,295",Echo Designer Loft Apartments
+373,"4133 S Redwood Ave, Los Angeles, CA 90066",Studio - 2 Bed,844-205-2697,"$2,399 - 4,599",R2 Living Lofts
+374,"4151 Redwood Ave, Los Angeles, CA 90066",3 Bed,844-262-4300,"$5,399 - 5,499",R1 Living Townhouses
+375,"1303 Wellesley Ave, Los Angeles, CA 90025",3 Bed,424-331-1415,"$5,000 - 5,400",The Wellesley House
+376,"3221 W Temple St, Los Angeles, CA 90026",1-3 Bed,818-208-2695,"$2,250 - 3,799",HoM @ West Temple
+377,"318 S Detroit St, Los Angeles, CA 90036",2 Bed,844-244-9994,"$2,750",Brighton Villas
+378,"616 S Burnside Ave, Los Angeles, CA 90036",2 Bed,844-822-0394,"$2,700",Burnside Apartments
+379,"360 S Detroit St, Los Angeles, CA 90036",2 Bed,855-480-4928,"$2,600 - 2,750",Babylon Apartments
+380,"625 Hauser Blvd, Los Angeles, CA 90036",2 Bed,844-209-8095,"$2,850",Hauser Apartments
+381,"753 Lillian Way, Los Angeles, CA 90038",Studio - 3 Bed,844-592-0016,"$2,900 - 4,900",The Lofts on Lillian Way
+382,"4555 W Martin Luther King Jr Blvd, Los Angeles, CA 90016",1-2 Bed,310-846-8835,"$1,650 - 2,280",Residences at Woodlake
+383,"527-540 Midvale Ave, Los Angeles, CA 90024",Studio - 2 Bed,844-356-1723,"$1,050 - 4,455",Midvale Apartments
+384,"5115 Wilshire Blvd, Los Angeles, CA 90036",1-3 Bed,864-558-2875,"$2,508 - 4,753",Avalon Wilshire
+385,"720 W 27th St, Los Angeles, CA 90007",Studio - 2 Bed,844-773-4338,"$1,500 - 3,000",Mardi Gras Apartments
+386,"2707 Portland St, Los Angeles, CA 90007",Studio - 2 Bed,844-367-3330,"$1,500 - 3,000",Mardette Apartments
+387,"819 Santee St, Los Angeles, CA 90014",Studio - 1 Bed,213-267-8676,"$2,020 - 3,890",Maxfield Lofts
+388,"333 S Kingsley Dr, Los Angeles, CA 90020",Studio,844-795-1411,"$1,800 - 1,825",Kingsley Tower Apartments
+389,"1851 Ivar Ave, Los Angeles, CA 90028",1 Bed,844-795-9441,Call for Rent,Chateau Alto Nido Apartments
+390,"1515 S Westgate Ave, Los Angeles, CA 90025",1-3 Bed,818-588-4865,"$3,335 - 5,124",The Westgate Collection
+391,"417 S Barrington Ave, Los Angeles, CA 90049",2-4 Bed,747-226-5945,"$5,895 - 7,095",SAN REMO
+392,"2901 E Olympic Blvd, Los Angeles, CA 90023",Studio - 2 Bed,844-518-9484,"$961 - 1,850",Wyvernwood Garden - Leasing In Boyle Heights
+393,"2208 W 8th St, Los Angeles, CA 90057",Studio,844-478-3459,"$1,295 - 1,875",William Penn Apartment Homes
+394,"4150 Marathon St, Los Angeles, CA 90029",2 Bed,844-207-5984,"$2,700 - 3,495",The CitiZen at Virgil Village
+395,"3324-3330 Wilshire Blvd, Los Angeles, CA 90010",Studio,844-410-0512,"$3,100 - 4,000",Morgan Lofts
+396,"533 N Mariposa Ave, Los Angeles, CA 90004",1 Bed,844-262-5661,"$1,825",Mariposa Gardens
+397,"5409 Carlton Way, Los Angeles, CA 90027",1 Bed,844-203-0475,"$2,125",Sterling Court Apartments
+398,"756 S Spring St, Los Angeles, CA 90014",1 Bed,213-536-0586,"$2,075 - 2,200",Great Republic Lofts Apartments
+399,"5533 Hollywood Blvd, Los Angeles, CA 90028",Studio - 2 Bed,844-818-1501,"$1,325 - 2,550",The Gershwin Apartments
+400,"10969 Wellworth Ave, Los Angeles, CA 90024",Studio,747-248-0467,"$2,645",Westwood Riviera
+401,"5659 W 8th St, Los Angeles, CA 90036",1-2 Bed,877-889-7187,"$3,299 - 7,700",Oakwood Miracle Mile
+402,"3400 Cahuenga Blvd W, Los Angeles, CA 90068",2 Bed,323-380-1157,"$2,499 - 2,750",Cahuenga Place - Former Site Hanna Barbara
+403,"6550 Yucca St, Los Angeles, CA 90028",2 Bed,844-209-1210,"$2,150 - 2,250",Hollywood Terrace Apartments
+404,"3700 S Sepulveda Blvd, Los Angeles, CA 90034",1-2 Bed,844-259-7126,"$2,150 - 3,200",3700 SEPULVEDA
+405,"Los Angeles, CA 90034",2 Bed,844-720-6830,"$2,700",3748 Midvale Ave
+406,"639 S Commonwealth Ave, Los Angeles, CA 90005",1-4 Bed,844-598-1608,"$636 - 1,260",Sheraton Town House
+407,"8600 Burton Way, Los Angeles, CA 90048",1-2 Bed,310-734-0209,"$3,195 - 3,995",8600 Burton Way
+408,"3230 Overland Ave, Los Angeles, CA 90034",Studio - 2 Bed,844-877-8862,"$2,150 - 2,225",Casa De Vida
+409,"3550 W 6th St, Los Angeles, CA 90005",Studio - 2 Bed,844-825-4899,"$2,185 - 3,000",The Abbey
+410,"Los Angeles, CA 90026",2 Bed,844-245-2423,Call for Rent,1516 Micheltorena St
+411,"320 S Arnaz Dr, Los Angeles, CA 90048",Studio,844-778-4964,"$2,037",Studio Arnaz
+412,"1530 N Poinsettia Pl, Los Angeles, CA 90046",Studio - 2 Bed,844-293-8961,"$2,525 - 3,302",Verse Hollywood
+413,"689 S Berendo St, Los Angeles, CA 90005",2 Bed,877-590-9608,"$2,700 - 2,950",Berendo Terrace
+414,"10824 Lindbrook Dr, Los Angeles, CA 90024",Studio,844-650-0517,"$1,798 - 2,199",Lindbrook Manor
+415,"717 S Carondelet St, Los Angeles, CA 90057",Studio - 1 Bed,844-655-7339,"$1,550 - 1,700",Westlake Flats
+416,"300 Avenue 37, Los Angeles, CA 90065",1 Bed,844-891-1325,"$1,650",Parkview Terrace
+417,"810 S Spring St, Los Angeles, CA 90014",1-2 Bed,844-241-0624,"$2,270 - 3,035",NCT Lofts
+418,"6565 W Fountain Ave, Los Angeles, CA 90028",1 Bed,844-390-6034,"$1,875 - 2,525",Bleu Apartments
+419,"1630 W 3rd St, Los Angeles, CA 90017",1 Bed,844-206-9080,"$1,450",Crystal House Apartments
+420,"3584 S Figueroa St, Los Angeles, CA 90007",5 Bed,844-245-2465,"$2,178",Full for Fall! The ICON Plaza at USC
+421,"500 S Westmoreland Ave, Los Angeles, CA 90020",1 Bed,844-377-9294,"$1,695 - 1,995",500 Westmoreland Avenue Apartments
+422,"1203-1209 W 7th St, Los Angeles, CA 90017",Studio,844-843-8980,"$1,350",Commodore Regency Apartments
+423,"1318 N Mansfield Ave, Los Angeles, CA 90028",1 Bed,844-224-9659,"$2,300",Chateau Mansfield
+424,"1229-1318 N Mansfield Ave, Los Angeles, CA 90038",2 Bed,844-229-2324,"$2,695",Mansfield Apartments
+425,"1545 N Hobart Blvd, Los Angeles, CA 90027",1 Bed,323-856-1736,"$1,600",Hollywood Royale Apartments
+426,"Los Angeles, CA 90038",1 Bed,866-606-1056,"$1,850",1134 N Sycamore Ave
+427,"8600 Emerson Ave, Los Angeles, CA 90045",Studio - 1 Bed,844-422-5916,"$1,865 - 2,548",Townhomes on Emerson
+428,"670 Kelton Ave, Los Angeles, CA 90024",1-3 Bed,424-320-5666,"$3,000 - 6,000",Roberts Hall
+429,"120 Granville Ave, Los Angeles, CA 90049",2 Bed,844-791-0136,"$5,995",L'Ermitage Luxury Apartments
+430,"1570 N Edgemont St, Los Angeles, CA 90027",Studio - 2 Bed,844-355-1818,"$1,600 - 2,910",Villa Edgemont Apartments
+431,"Los Angeles, CA 90046",1 Bed,844-811-6937,"$3,050",1338-1352 N Harper Ave
+432,"748 S Main St, Los Angeles, CA 90014",Studio,844-523-9928,$650 - 975,Huntington Apartments
+433,"2700 S Figueroa St, Los Angeles, CA 90007",Studio - 1 Bed,844-858-0060,"$2,178 - 3,058",West 27th Place
+434,"1836 N Gramercy Pl, Los Angeles, CA 90028",Studio - 1 Bed,877-607-7848,"$1,999 - 2,500",Gramercy Hollywood
+435,"Los Angeles, CA 90020",Studio - 1 Bed,844-219-4312,Call for Rent,435 S Mariposa Ave
+436,"715 S Normandie Ave, Los Angeles, CA 90005",Studio - 2 Bed,844-397-6441,"$1,100 - 1,850",The Langham
+437,"3460 W 7th St, Los Angeles, CA 90005",Studio - 2 Bed,844-645-9537,"$1,919 - 3,550",The View
+438,"2750-2850 Riverside Dr, Los Angeles, CA 90039",1-3 Bed,855-777-4705,"$1,700 - 2,250",Riverglen Apartments
+439,"Los Angeles, CA 90004",1 Bed,213-425-3589,"$1,600",102 S Oxford Ave
+440,"11050 Strathmore Dr, Los Angeles, CA 90024",Studio - 2 Bed,844-408-8432,"$2,045 - 5,500",Strathmore Regency Apartments
+441,"1168 Bellevue Ave, Los Angeles, CA 90012",Studio - 2 Bed,844-782-6258,"$1,650 - 3,000",Brownstone Lofts
+442,"6651 Franklin Ave, Los Angeles, CA 90028",Studio - 2 Bed,844-882-3432,"$1,760 - 2,800",6651 Franklin
+443,"723 S Mansfield Ave, Los Angeles, CA 90036",Studio,844-414-9070,Call for Rent,Mansfield Apartments
+444,"415 Gayley Ave, Los Angeles, CA 90024",Studio - 2 Bed,844-774-0259,"$2,105 - 2,848",Axiom Westwood
+445,"500 S Lake St, Los Angeles, CA 90057",1-2 Bed,844-283-5804,"$1,550 - 1,950",Lakeview Apartments
+446,"1200 N June St, Los Angeles, CA 90038",1-2 Bed,844-627-1592,"$1,700 - 2,500",Hyde Park
+447,"10600 Wilshire Blvd, Los Angeles, CA 90024",1-2 Bed,844-874-6593,"$2,400 - 3,800",10600 Wilshire
+448,"Los Angeles, CA 90057",2-3 Bed,866-942-1925,"$2,600 - 2,800",401 S Grand View St
+449,"2300 Valley St, Los Angeles, CA 90057",2-3 Bed,657-262-3522,"$2,500",Valley Street Apartments
+450,"538 S Manhattan Pl, Los Angeles, CA 90020",1 Bed,844-614-9212,"$1,750",Hancock Terrace Apartments
+451,"1825 N Whitley Ave, Los Angeles, CA 90028",Studio - 1 Bed,888-239-1924,"$1,200 - 1,805",The Fleur De Lis Apartments
+452,"1800 N Whitley Ave, Los Angeles, CA 90028",2-3 Bed,844-386-1040,"$2,995 - 4,295",1800 Whitley
+453,"3165 Sawtelle Blvd, Los Angeles, CA 90066",Studio - 3 Bed,844-598-3657,"$2,517 - 3,811",Westside Collection
+454,"4318 Santo Tomas Dr, Los Angeles, CA 90008",1-3 Bed,213-785-3307,"$1,350 - 2,195",Santo Tomas Apartments
+455,"4220 Santa Rosalia Dr, Los Angeles, CA 90008",Studio - 3 Bed,877-215-9434,"$1,100 - 2,100",Santa Rosalia Apartment Homes
+456,"3740 Keystone Ave, Los Angeles, CA 90034",2 Bed,844-380-3921,"$2,917",Indie Westside Apartments
+457,"323 S Doheny Dr, Los Angeles, CA 90048",1-2 Bed,866-722-5269,Call for Rent,Villa Doheny I & II
+458,"608 S St Andrews Pl, Los Angeles, CA 90005",Studio - 2 Bed,213-358-2489,"$1,500 - 2,950",The Versailles
+459,"22433 S Vermont Ave, Torrance, CA 90502",1-3 Bed,972-992-1249,"$2,238 - 5,479",Alta South Bay
+460,"10747 Magnolia Blvd, North Hollywood, CA 91601",1-2 Bed,818-287-7122,"$1,828 - 1,869",No Ho Senior Arts Colony
+461,"6300 Green Valley Cir, Culver City, CA 90230",Studio - 2 Bed,866-808-8243,"$1,861 - 6,315",Meadows Apartments
+462,"840 N Larrabee Ave, West Hollywood, CA 90069",Studio - 2 Bed,888-877-3389,"$2,105 - 6,613",Mediterranean Village West Hollywood
+463,"17171 Roscoe Blvd, Northridge, CA 91325",Studio - 3 Bed,866-540-2680,"$1,718 - 2,148",Village Pointe Apartments
+464,"4500 Via Marina, Marina del Rey, CA 90292",Studio - 2 Bed,844-811-3186,"$4,125 - 4,375",The Villa At Marina Harbor
+465,"4045 Vineland Ave, Studio City, CA 91604",Studio - 2 Bed,866-401-0611,"$2,086 - 6,612",L'Estancia
+466,"5416 N Fair Ave, North Hollywood, CA 91601",1-2 Bed,877-646-3812,"$2,207 - 4,805",The Gallery @ Noho Commons
+467,"4440 Sepulveda Blvd, Sherman Oaks, CA 91403",2 Bed,844-209-9726,"$2,715 - 2,765",Alister Sherman Oaks
+468,"9423 Reseda Blvd, Northridge, CA 91324",1-2 Bed,844-768-8805,"$2,020 - 2,813",Meridian Place Apartment Homes
+469,"1757 N Orange Dr, Hollywood, CA 90028",1-2 Bed,844-380-2423,"$2,350 - 3,000",Orly on Orange
+470,"4333 Admiralty Way, Marina Del Rey, CA 90292",1-3 Bed,323-430-9161,"$3,064 - 4,965",The Promenade Marina City Club
+471,"7111-7119 Santa Monica Blvd, West Hollywood, CA 90046",Studio - 2 Bed,844-822-1396,"$2,483 - 3,811",The Dylan
+472,"13141 Fountain Park Dr, Playa Vista, CA 90094",Studio - 3 Bed,866-471-0514,"$2,550 - 3,262",Fountain Park At Playa Vista
+473,"5245-5251 Vineland Ave, North Hollywood, CA 91601",Studio - 3 Bed,844-301-1358,"$2,114 - 3,371",Muse
+474,"13701 Marina Pointe Dr, Marina Del Rey, CA 90292",1-3 Bed,844-801-5038,"$2,760 - 4,876",Mirabella
+475,"211 N Valley St, Burbank, CA 91505",Studio - 2 Bed,844-234-1637,"$1,825 - 2,673",The Village at Toluca Lake
+476,"21201 Kittridge St, Woodland Hills, CA 91303",1-3 Bed,844-518-1461,"$1,949 - 3,323",Reveal
+477,"1234 N La Brea Ln, West Hollywood, CA 90038",Studio - 2 Bed,844-542-1940,"$2,504 - 4,064",The Huxley
+478,"4750 Lincoln Blvd, Marina del Rey, CA 90292",1-3 Bed,864-558-2877,"$2,611 - 5,204",Aqua at Marina Del Rey
+479,"12005 Albers St, Valley Village, CA 91607",1-2 Bed,844-312-8530,"$2,587 - 2,887",Avery
+480,"11945 Magnolia Blvd, Valley Village, CA 91607",2-3 Bed,844-245-7900,"$2,551 - 4,103",Allegro
+481,"22222-22240 Victory Blvd, Woodland Hills, CA 91367",Studio - 2 Bed,844-360-9405,"$1,567 - 2,404",Avondale At Warner Center
+482,"12729 Riverside Dr, Valley Village, CA 91607",1-2 Bed,844-836-9329,"$2,320 - 3,647",Ashton Sherman Village
+483,"230 N Kenwood St, Burbank, CA 91505",1-2 Bed,844-817-5787,"$2,160 - 3,086",Kenwood Mews
+484,"4920 Van Nuys Blvd, Sherman Oaks, CA 91403",Studio - 2 Bed,844-369-8318,"$1,848 - 2,694",The Encore
+485,"8700 Pershing Dr, Playa Del Rey, CA 90293",1-2 Bed,844-882-4681,"$2,560 - 3,579",Mariposa at Playa del Rey
+486,"19200 Nordhoff St, Northridge, CA 91324",1-3 Bed,844-264-8205,"$2,796 - 2,807",Artisan Square
+487,"9400 La Tijera Blvd, Westchester, CA 90045",Studio - 2 Bed,844-530-1607,"$2,328 - 2,880",Park West
+488,"23100 Avenue San Luis Ave, Woodland Hills, CA 91364",1-3 Bed,888-915-9297,"$1,820 - 2,723",Versailles
+489,"11450 N Poema Pl, Chatsworth, CA 91311",1-2 Bed,818-435-4487,"$2,100 - 2,806",Summerset Village
+490,"313 W California Ave, Glendale, CA 91203",Studio - 3 Bed,844-500-4070,"$2,050 - 4,900",Onyx Glendale
+491,"3900 San Fernando Rd, Glendale, CA 91204",Studio - 2 Bed,877-721-7888,"$2,179 - 3,829",Camden Glendale
+492,"13924 Panay Way, Marina Del Rey, CA 90292",1-2 Bed,844-883-8575,"$3,812 - 3,887",Dolphin Marina St Tropez
+493,"6630 Independence Ave, Canoga Park, CA 91303",1-2 Bed,747-444-3378,"$1,609 - 1,849",Independence Park Apartments
+494,"18601 Hatteras St, Tarzana, CA 91356",2-3 Bed,818-356-8419,"$1,759 - 2,630",Tarzana Terraces
+495,"6235 Beck Ave, North Hollywood, CA 91606",1 Bed,818-287-7504,"$1,712",Beck Park
+496,"13970 Panay Way, Marina Del Rey, CA 90292",1 Bed,844-258-1951,Call for Rent,Dolphin Marina Monte Carlo
+497,"5825 Reseda Blvd, Tarzana, CA 91356",1-2 Bed,818-921-7308,"$1,765 - 2,053",Tarzana Springs
+498,"5254 Newcastle Ave, Encino, CA 91316",1 Bed,855-221-8405,"$1,499 - 1,799",Encino Verde Apartments
+499,"5500 Newcastle Ave, Encino, CA 91316",1 Bed,844-847-0640,"$1,499 - 1,650",Casa Verde Apartments
+500,"5300 Newcastle Ave, Encino, CA 91316",1 Bed,844-740-7973,"$1,499 - 1,799",Villa Verde Apartments
+501,"1274 N Crescent Heights Blvd, West Hollywood, CA 90046",1-2 Bed,323-798-7425,"$2,345 - 8,088",The Crescent at West Hollywood
+502,"5415-5425 Sepulveda Blvd, Sherman Oaks, CA 91411",Studio - 2 Bed,844-217-4885,Call for Rent,Sherman Oaks Gardens
+503,"14500 Olive View Dr, Sylmar, CA 91342",1-2 Bed,818-741-2616,Call for Rent,Olive View Garden Apartments
+504,"7240 Corbin Ave, Reseda, CA 91335",1-2 Bed,844-284-3945,Call for Rent,Corbin Terrace
+505,"3930 Laurel Canyon Blvd, Studio City, CA 91604",Studio - 2 Bed,844-857-5825,"$2,750",Catalina Apartments
+506,"19143 Victory Blvd, Reseda, CA 91335",1-3 Bed,844-894-7707,Call for Rent,Riverbridge Communities
+507,"6900 Bonita Ter, Hollywood, CA 90068",1-3 Bed,844-287-7215,"$3,500",Bonita Terrace
+508,"19053 Nordhoff St, Northridge, CA 91324",Studio - 3 Bed,844-544-7209,"$1,890 - 2,495",The Villagio
+509,"5331 Corteen Pl, Valley Village, CA 91607",1-3 Bed,877-601-8932,"$2,237 - 2,397",California Villages in Valley Village
+510,"12819 Riverside Dr, Valley Village, CA 91607",1-2 Bed,844-231-2326,"$1,965 - 2,395",The Plaza
+511,"10953 Bloomfield St, North Hollywood, CA 91602",Studio - 2 Bed,888-381-9884,"$1,980",The Ritz
+512,"16551 Victory Blvd, Van Nuys, CA 91406",Studio - 2 Bed,877-743-8370,"$1,445 - 2,260",The Parkview
+513,"11777 Foothill Blvd, Lake View Terrace, CA 91342",1-2 Bed,844-718-2764,"$1,799 - 1,999",Monte Vista Apartments
+514,"17819 Merridy St, Northridge, CA 91325",Studio - 2 Bed,855-227-0117,"$1,250 - 1,650",Park Merridy
+515,"6301 De Soto Ave, Woodland Hills, CA 91367",Studio - 2 Bed,866-494-2202,"$1,900 - 3,459",Carillon Apartment Homes
+516,"15353 Weddington St, Sherman Oaks, CA 91411",Studio - 1 Bed,424-610-4602,"$1,795",Summer View Apartments
+517,"20600 Ventura Blvd, Woodland Hills, CA 91364",Studio - 3 Bed,877-893-8338,"$2,042 - 7,288",The Boulevard
+518,"2501 Pico Blvd, Santa Monica, CA 90405",1 Bed,424-229-9256,"$1,910 - 2,135",Pico Lanai
+519,"200 W Queen, Inglewood, CA 90301",Studio - 3 Bed,844-818-5021,"$1,375 - 2,100",Queen Street Apartments
+520,"6737 De Soto Ave, Canoga Park, CA 91303",3 Bed,844-253-2899,"$3,395",Warner Center Townhomes
+521,"401-403 W Glenoaks Blvd, Glendale, CA 91202",Studio - 1 Bed,844-245-3538,"$1,645",Pacifica Glendale
+522,"8761 De Soto Ave, Canoga Park, CA 91304",1-3 Bed,844-726-6906,"$1,750 - 2,400",NoVa Townhomes
+523,"435 Orange Grove Cir, Pasadena, CA 91105",2-3 Bed,626-389-8564,"$4,370 - 5,815",Orange Grove Circle
+524,"6355 De Soto Ave, Woodland Hills, CA 91367",1-2 Bed,855-436-1601,"$2,094 - 6,364",Oceano at Warner Center
+525,"21601 Erwin St, Woodland Hills, CA 91367",Studio - 3 Bed,844-282-5450,"$1,700 - 2,500",Warner Pines
+526,"4055 Lankershim Blvd, Studio City, CA 91604",Studio - 3 Bed,818-287-7535,"$2,375 - 4,315",Windsor Lofts at Universal City
+527,"1200 W Riverside Dr, Burbank, CA 91506",Studio - 1 Bed,877-235-8728,"$1,805 - 4,446",1200 Riverside
+528,"1286 W Capitol Dr, San Pedro, CA 90732",1-3 Bed,844-716-9417,"$2,230 - 4,035",Harborview
+529,"4500 Woodman Ave, Sherman Oaks, CA 91423",Studio - 2 Bed,877-505-2152,"$1,670 - 3,350",The Plaza at Sherman Oaks
+530,"4250 Coldwater Canyon Ave, Studio City, CA 91604",1-2 Bed,844-864-7605,"$2,099 - 2,569",4250 Coldwater Canyon Apartments
+531,"14849 Vanowen St, Van Nuys, CA 91405",Studio - 2 Bed,844-641-5823,"$1,825 - 1,850",The Seville
+532,"14440 Dickens St, Van Nuys, CA 91423",Studio - 2 Bed,844-693-3204,"$1,925 - 1,950",Park Dickens
+533,"19050 Sherman Way, Reseda, CA 91335",Studio - 1 Bed,844-448-6304,"$1,625 - 1,750",Sherman West Apartments
+534,"21501 Roscoe Blvd, Canoga Park, CA 91304",2-3 Bed,844-508-9515,"$2,178 - 3,961",Le Blanc Apartment Homes
+535,"11011 Huston St, North Hollywood, CA 91601",1-2 Bed,844-244-8428,"$2,392 - 4,449",The Social
+536,"15210-15220 Sherman Way, Van Nuys, CA 91405",Studio - 2 Bed,844-285-3007,"$1,395 - 1,425",Country Club Apartments
+537,"415 Washington Blvd, Marina Del Rey, CA 90292",Studio - 1 Bed,424-229-9230,"$2,695 - 3,995",Marina Tower
+538,"2727 6th St, Santa Monica, CA 90405",1-2 Bed,424-316-5247,"$4,662",Sixth + Raymond
+539,"9001-9009 Burnet Ave, North Hills, CA 91343",2-4 Bed,844-498-5967,"$2,683 - 3,507",Burnet Townhomes
+540,"4824 Craner Ave, North Hollywood, CA 91601",1-2 Bed,818-927-6006,"$2,425",Craner Villa
+541,"15225 Victory Blvd, Van Nuys, CA 91411",2 Bed,844-388-3262,"$2,395 - 2,495",The Hideaway
+542,"16915 Napa St, Northridge, CA 91343",Studio - 3 Bed,844-570-0546,"$1,595 - 2,075",Balboa Court
+543,"120 W Wilson Ave, Glendale, CA 91203",Studio - 3 Bed,424-744-3685,"$2,090 - 5,175",The Brand
+544,"12300 Sherman Way, North Hollywood, CA 91605",Studio - 2 Bed,844-287-4994,"$1,522 - 1,824",The Marquee
+545,"17808 Sherman Way, Reseda, CA 91335",Studio - 1 Bed,818-581-2583,"$1,492 - 2,316",Sherway Villa
+546,"10407 Magnolia Blvd, North Hollywood, CA 91601",2-3 Bed,844-645-8354,"$2,750 - 5,110",Madison Toluca
+547,"5461 Yarmouth Ave, Encino, CA 91316",Studio - 2 Bed,844-771-2119,"$1,795",Yarmouth
+548,"17830 Merridy St, Northridge, CA 91325",1-2 Bed,844-861-9136,"$1,595 - 1,750",Merridy Court
+549,"9810 Zelzah Ave, Northridge, CA 91325",Studio - 2 Bed,844-206-0127,"$1,595 - 2,395",Zelzah Court
+550,"5814 Reseda Blvd, Tarzana, CA 91356",1 Bed,844-417-9161,"$1,750",5830 Reseda Boulevard
+551,"4225 Longridge Ave, Studio City, CA 91604",1-2 Bed,844-274-3258,Call for Rent,Studio Parc North
+552,"6220 Bristol Pky, Culver City, CA 90230",1-2 Bed,310-256-2869,"$2,942 - 4,735",Parkway Plaza Apartments
+553,"5633-45 Topanga Canyon Blvd, Woodland Hills, CA 91367",Studio - 3 Bed,818-264-4783,Call for Rent,Lombardi Apartments
+554,"20909-20929 Parthenia St, Canoga Park, CA 91304",Studio - 3 Bed,818-798-4005,"$1,601 - 2,197",Parthenia Terrace Apartments
+555,"11818 Riverside Dr, Valley Village, CA 91607",1-2 Bed,844-456-0359,"$1,760 - 2,795",Casa Del Riverside Apartments
+556,"740 W 24th St, San Pedro, CA 90731",2 Bed,855-308-7267,"$2,000",Pacific View Apartments
+557,"4620 S Slauson Ave, Culver City, CA 90230",2 Bed,323-330-4282,"$2,595",Forty6Twenty Apartments
+558,"18414 Vincennes St, Northridge, CA 91325",1-2 Bed,844-810-8277,"$1,595 - 1,995",Windward Sea Apartments
+559,"8601 Wilshire Blvd, Beverly Hills, CA 90211",1 Bed,323-472-5939,"$3,750 - 4,450",Blu Beverly Hills
+560,"7240 Lankershim Blvd, North Hollywood, CA 91605",1 Bed,818-824-6573,"$1,390",Universal Pointe Apartments
+561,"Culver City, CA 90230",1 Bed,844-857-3415,"$2,995 - 3,095",5036 S Slauson Ave
+562,"15141 Burbank Blvd, Sherman Oaks, CA 91411",2 Bed,844-613-8061,"$2,395 - 2,495",Sherman Oaks
+563,"17730 Lassen St, Northridge, CA 91325",2 Bed,844-254-8849,"$2,075 - 2,335",Lassen Village
+564,"4150 Arch Dr, Studio City, CA 91604",Studio - 2 Bed,844-877-4862,"$1,725 - 2,495",Archview Apartments
+565,"5800 Harold Way, Hollywood, CA 90028",2 Bed,844-268-6571,"$3,250",5800 Harold
+566,"7800 Woodman Ave, Panorama City, CA 91402",Studio - 2 Bed,818-305-6418,"$1,255 - 1,875",Sunset Pointe Apartments
+567,"9510 Van Nuys Blvd, Panorama City, CA 91402",Studio,818-924-4593,"$1,100",Summer View Apartment Homes
+568,"9225 Topanga Canyon Blvd, Chatsworth, CA 91311",1 Bed,844-263-3825,"$1,690",Nantucket Creek Senior Apartment Homes
+569,"18014 Sherman Way, Reseda, CA 91335",Studio - 1 Bed,818-581-2555,"$1,509 - 1,659",Concord Square Apartments
+570,"14720 Roscoe Blvd, Panorama City, CA 91402",Studio - 2 Bed,818-924-2157,"$1,075 - 1,600",Town Square Apartments
+571,"13309 Woodbridge St, Sherman Oaks, CA 91423",2 Bed,844-743-8331,"$3,500 - 3,700",Enzo
+572,"525 N Adams St, Glendale, CA 91206",2-3 Bed,844-263-6625,"$2,800 - 3,495",Adams Place
+573,"512 Rose Ave, Venice, CA 90291",1-3 Bed,844-310-6156,"$4,779 - 5,284",Avalon Venice on Rose
+574,"14340 Addison St, Sherman Oaks, CA 91423",1-2 Bed,844-478-5232,"$1,795 - 2,300",Cambridge Apartments
+575,"14265 Van Nuys Blvd, Arleta, CA 91331",Studio - 1 Bed,818-492-4960,"$1,100 - 1,400",Southwest Pointe Apartments
+576,"10822 Magnolia Blvd, North Hollywood, CA 91601",Studio,818-287-8347,"$1,225",Studio Village Apartments
+577,"18013 Devonshire St, Northridge, CA 91325",Studio - 2 Bed,888-339-9024,"$1,398 - 2,222",Cambridge on Devonshire
+578,"8101 Langdon Ave, Van Nuys, CA 91406",Studio - 2 Bed,818-305-6498,"$1,225 - 1,800",Terrace Pointe Apartments
+579,"6340 Lankershim Blvd, North Hollywood, CA 91606",Studio - 1 Bed,818-824-6584,"$1,200",Academy Pointe Apartment Homes
+580,"7727 Lankershim Blvd, North Hollywood, CA 91605",1-2 Bed,844-206-1166,"$1,350 - 1,800",Villa California Apartments
+581,"16100-16120 Ventura Blvd, Encino, CA 91436",1-2 Bed,866-974-4116,"$2,250 - 4,000",Serrano Luxury Homes and Garden
+582,"18407 Dearborn St, Northridge, CA 91325",1-3 Bed,844-396-2184,"$1,625 - 2,325",Ivy Apartment Homes at Northridge
+583,"2039 Artesia Blvd, Torrance, CA 90504",1-2 Bed,310-817-6666,"$1,895 - 2,275",Torrance Gardens
+584,"15357 Magnolia Blvd, Sherman Oaks, CA 91403",1-2 Bed,844-736-5546,"$2,100 - 2,500",The Magnolia at Sherman Oaks
+585,"7300 Lankershim Blvd, North Hollywood, CA 91605",Studio - 1 Bed,818-287-8365,"$1,250 - 1,600",Studio Pointe Apartments
+586,"4121 Radford Ave, Studio City, CA 91604",1-2 Bed,888-353-4341,"$2,440 - 2,855",Avalon Studio 4121
+587,"16350 Ventura Blvd, Encino, CA 91436",1-3 Bed,855-375-4152,"$2,390 - 4,090",Avalon Encino
+588,"5077 Lankershim Blvd, North Hollywood, CA 91601",Studio - 2 Bed,844-891-7251,"$2,055 - 2,980",AVA North Hollywood
+589,"4950 Laurel Canyon Blvd, Valley Village, CA 91607",1-2 Bed,844-778-5304,"$1,784 - 2,339",Laurel Canyon Towers Apartments
+590,"230 S Hamilton Dr, Beverly Hills, CA 90211",2-3 Bed,844-874-9624,"$4,995 - 6,295",230 S. Hamilton
+591,"7230 De Soto Ave, Canoga Park, CA 91303",Studio - 2 Bed,844-481-6693,"$1,350 - 1,850",Fairmont Apartments
+592,"1232 N Kings Rd, West Hollywood, CA 90069",1-3 Bed,844-593-6978,"$4,650 - 7,800",Empire At Kings
+593,"10435 Lindley Ave, Northridge, CA 91326",2-3 Bed,844-736-1613,"$1,995 - 2,550",The Village at Granada Hills
+594,"8000-8040 W Manchester Ave, Playa Del Rey, CA 90293",1 Bed,844-287-5212,"$2,295 - 2,800",Del Rey Club Apartments
+595,"South Pasadena, CA 91030",1 Bed,844-727-3803,"$2,400",711 Orange Grove Ave
+596,"18615 Burbank Blvd, Tarzana, CA 91356",Studio - 1 Bed,844-204-8824,"$1,425 - 1,625",Meridian Court Apartments at Tarzana
+597,"9265 Burton Way, Beverly Hills, CA 90210",2 Bed,844-329-2484,"$8,600",Empire at Burton Way
+598,"1031 N Curson Ave, West Hollywood, CA 90046",1 Bed,855-201-7395,"$1,900",1031 North Curson Ave. Apartments
+599,"16815-16819 Vanowen St, Van Nuys, CA 91406",1-2 Bed,844-715-2456,"$1,700 - 2,195",Chateau Lakeside Apartment
+600,"21315 Roscoe Blvd, Canoga Park, CA 91304",1-2 Bed,844-269-2419,"$1,515 - 1,935",The Allure Apartment Homes
+601,"6940 Sepulveda Blvd, Van Nuys, CA 91405",2 Bed,866-673-4918,"$2,395 - 2,500",6940 Sepulveda Apartment Homes
+602,"6200 Kester Ave, Van Nuys, CA 91411",2 Bed,844-847-1566,"$2,375 - 2,625",Kester Apartments
+603,"1844 Plaza Del Amo, Torrance, CA 90501",1-2 Bed,844-300-5751,"$1,550 - 1,850",Del Amo Village
+604,"9850 Zelzah Ave, Northridge, CA 91325",2 Bed,844-458-0618,"$2,095 - 2,245",Northpoint Apartments at CSUN
+605,"15540 Vanowen St, Van Nuys, CA 91406",Studio - 1 Bed,818-305-6533,"$1,265 - 1,515",Diamond Head Apartments
+606,"1801 Garvey Ave, Alhambra, CA 91803",1 Bed,844-223-5958,"$1,850",LUXE 1801
+607,"8133 Sepulveda Blvd, Van Nuys, CA 91402",Studio - 2 Bed,818-582-8205,"$1,225 - 1,825",Casa Royale Apartments
+608,"10300 Venice Blvd, Culver City, CA 90232",1-2 Bed,424-442-1887,"$2,795 - 4,350",The Goldwyn
+609,"8401 Crenshaw Blvd, Inglewood, CA 90305",1-2 Bed,866-675-4033,"$1,575 - 2,095",Forum Park Apartments
+610,"310 N Crescent Dr, Beverly Hills, CA 90210",1 Bed,844-367-1353,"$3,750 - 7,000",Villa Rebecca
+611,"1201 N Crescent Heights Blvd, West Hollywood, CA 90046",Studio - 1 Bed,844-373-9754,"$2,800 - 5,100",Villa Italia
+612,"938 4th St, Santa Monica, CA 90403",1 Bed,844-375-9942,"$2,995 - 3,000",ZVI Coast
+613,"15240 Kittridge St, Van Nuys, CA 91405",1 Bed,818-305-6419,"$1,400 - 1,425",Royal Garden at Kittridge
+614,"9933 Woodman Ave, Mission Hills, CA 91345",2 Bed,844-725-4459,"$1,880",Woodman Lassen Apartments
+615,"3250 Fairesta St, Glendale, CA 91214",1 Bed,818-629-2359,"$1,930 - 2,010",The Summit at La Crescenta
+616,"9500 Zelzah Ave, Northridge, CA 91325",Studio - 2 Bed,866-398-1283,"$1,199 - 2,630",Meridian Pointe
+617,"5415 Newcastle Ave, Encino, CA 91316",2 Bed,844-795-7583,"$1,925",Newcastle Towers Apartments
+618,"4540 Hazeltine Ave, Sherman Oaks, CA 91423",1 Bed,844-453-0992,"$1,595",Casa Vieja at 4540 Hazeltine
+619,"6666 Sepulveda Blvd, Van Nuys, CA 91405",1 Bed,818-305-6529,"$1,390",Summer Oaks
+620,"9301 Van Nuys Blvd, Panorama City, CA 91402",2-3 Bed,818-924-2162,"$1,925 - 2,350",Sunset Terrace Apartments Homes
+621,"6500 Yucca St, Hollywood, CA 90028",Studio - 3 Bed,424-260-5173,"$1,795 - 3,172",The Lido
+622,"8935 N Orion Ave, North Hills, CA 91343",1 Bed,844-886-5059,"$1,750",Thirty-Three North
+623,"18529 Calvert St, Tarzana, CA 91335",1-2 Bed,424-341-4835,"$1,800 - 2,650",Calvert Place Apartments
+624,"14543 Burbank Blvd, Sherman Oaks, CA 91411",1-2 Bed,844-684-5190,"$1,750 - 2,295",Windward Isle Apartments
+625,"6455 Reseda Blvd, Reseda, CA 91335",1-2 Bed,844-825-9700,"$1,600 - 1,750",Reseda On The Park
+626,"West Hollywood, CA 90046",Studio,844-830-9940,Call for Rent,1246 N Hayworth Ave
+627,"20135 Keswick St, Winnetka, CA 91306",2 Bed,844-746-5549,"$1,950 - 2,000",Keswick Manor Apartments
+628,"1234 E California Ave, Glendale, CA 91206",1-3 Bed,844-517-3402,"$1,800 - 3,100",Villa Monaco
+629,"17821 Lassen St, Northridge, CA 91325",1-2 Bed,844-445-4219,"$1,710 - 2,325",Northridge Gardens
+630,"18543-18545 Clark St, Tarzana, CA 91356",1 Bed,844-839-7436,"$1,595",Villa Royale
+631,"11231 Otsego St, North Hollywood, CA 91601",2 Bed,844-828-8861,"$1,995",Las Casitas Apartments
+632,"14227 Magnolia Blvd, Sherman Oaks, CA 91423",1-2 Bed,844-267-1354,"$1,900 - 2,300",Haleakala Luxury Apartments
+633,"9017 Langdon Ave, North Hills, CA 91343",1 Bed,844-545-8528,"$1,500",The Valley Collection
+634,"21205 Saticoy St, Canoga Park, CA 91304",Studio - 1 Bed,844-545-8495,"$1,350 - 1,550",The Valley Collection
+635,"7020 Lanewood Ave, Hollywood, CA 90028",2 Bed,844-836-5371,"$2,698",7020 Lanewood Apartments
+636,"5407 Colfax Ave, North Hollywood, CA 91601",Studio - 2 Bed,844-551-4888,"$1,810 - 2,600",CitiView Terrace Apartments
+637,"Inglewood, CA 90303",Studio,844-802-0900,Call for Rent,10227 S 10th Ave
+638,"18418 Dearborn St, Northridge, CA 91325",2-3 Bed,844-869-3933,"$2,295 - 3,585",Maravilla Apartments at CSUN
+639,"17950 Burbank Blvd, Encino, CA 91316",1-2 Bed,844-880-6216,"$2,195",Encino Glen
+640,"2021 W Olive Ave, Burbank, CA 91506",Studio - 1 Bed,818-658-1349,"$1,895 - 2,225",2021 Olive ** Extended Stay Apartments **
+641,"5464 Yarmouth Ave, Encino, CA 91316",1 Bed,844-323-9359,"$1,600",Yarmouth Apartments
+642,"875 Victor Ave, Inglewood, CA 90302",1-2 Bed,844-312-3165,"$1,850 - 2,330",Sycamore Apartments
+643,"9010 Tobias Ave, Panorama City, CA 91402",Studio - 2 Bed,844-382-0931,"$1,350 - 1,850",The Valley Collection on 9010 Tobias
+644,"Glendale, CA 91206",2-3 Bed,844-496-6283,"$2,150 - 2,300",311 N Belmont St
+645,"8600 International Ave, Canoga Park, CA 91304",Studio - 2 Bed,844-847-9959,"$1,472 - 2,107",Fountain Park Apartment Homes
+646,"9151 Darby Ave, Northridge, CA 91325",Studio - 2 Bed,844-829-1036,"$1,375 - 2,195",Windward Sun Apartments
+647,"9022 Orion Ave, North Hills, CA 91343",1-2 Bed,844-463-2696,Call for Rent,The Valley Collection
+648,"14960 Sherman Way, Van Nuys, CA 91405",Studio - 2 Bed,844-212-7145,"$1,250 - 1,895",The Olive Tree Apartments
+649,"1820 Whitley Ave, Hollywood, CA 90028",Studio - 2 Bed,844-887-6919,"$1,814 - 2,844",1820 Whitley
+650,"10915 Bluffside Dr, Studio City, CA 91604",2 Bed,844-335-7892,"$2,300",Bluffside Terrace Apartments
+651,"1800 N Normandie Ave, Los Feliz, CA 90027",Studio - 2 Bed,844-278-8331,"$1,795 - 2,975",Towers at Hollywood Hills
+652,"6628 N Sepulveda Blvd, Van Nuys, CA 91411",Studio - 1 Bed,818-305-6542,"$1,200 - 1,375",Southoaks Pointe Apartments
+653,"14646 Blythe St, Panorama City, CA 91402",1-2 Bed,844-382-0607,Call for Rent,The Valley Collection
+654,"15125 Saticoy St, Van Nuys, CA 91405",Studio - 2 Bed,818-668-3904,Call for Rent,The Valley Collection
+655,"702-740 Venice Way, Inglewood, CA 90302",2 Bed,844-212-6990,"$1,985",Venice Dreams
+656,"15128 Burbank Blvd, Van Nuys, CA 91411",1-2 Bed,844-212-7065,"$1,795 - 2,195",Tudor Garden Apartments
+657,"14155 Magnolia Blvd, Sherman Oaks, CA 91423",1-2 Bed,844-516-9884,"$1,800 - 2,200",Horace Heidt Estates
+658,"14941 Roscoe Blvd, Panorama City, CA 91402",1-2 Bed,844-750-0884,Call for Rent,Roscoe Apartments
+659,"6626 Hayvenhurst Ave, Van Nuys, CA 91406",1-2 Bed,818-305-6548,"$1,640",Balboa Pointe Apartments
